@@ -1,0 +1,21 @@
+body {
+    font-family: "PT Serif", serif;
+    background-color: antiquewhite
+}
+
+#header {
+    text-align: center;
+}
+
+#map {
+    width: 100%;
+}
+
+path {
+    stroke: #ffcc00;
+    fill: #003399;
+}
+
+circle {
+    fill: red;
+}
