@@ -14436,6 +14436,34 @@
     }
   },
   {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 58.755699157714844,53.39310073852539,1430 ]
+   },
+   "properties": {
+   "name":"Magnitogorsk International Airport",
+   "city":"Magnetiogorsk",
+   "country":"Russia",
+   "IATA":"MQF",
+   "ICAO":"USCM"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 56.021198272705,57.914501190186,404 ]
+   },
+   "properties": {
+   "name":"Bolshoye Savino Airport",
+   "city":"Perm",
+   "country":"Russia",
+   "IATA":"PEE",
+   "ICAO":"USPP"
+   }
+  },
+  {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -14532,6 +14560,34 @@
     "IATA":"KZN",
     "ICAO":"UWKD"
     }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 55.45669937133789,51.795799255371094,387 ]
+   },
+   "properties": {
+   "name":"Orenburg Central Airport",
+   "city":"Orenburg",
+   "country":"Russia",
+   "IATA":"REN",
+   "ICAO":"UWOO"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 55.874401092529,54.557498931885,449 ]
+   },
+   "properties": {
+   "name":"Ufa International Airport",
+   "city":"Ufa",
+   "country":"Russia",
+   "IATA":"UFA",
+   "ICAO":"UWUU"
+   }
   },
   {
     "type": "Feature",
@@ -16912,6 +16968,48 @@
     "IATA":"ULY",
     "ICAO":"UWLW"
     }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 58.59560012817383,51.0724983215332,909 ]
+   },
+   "properties": {
+   "name":"Orsk Airport",
+   "city":"Orsk",
+   "country":"Russia",
+   "IATA":"OSW",
+   "ICAO":"UWOR"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 59.936111,51.5,0 ]
+   },
+   "properties": {
+   "name":"Adamovka",
+   "city":"Adamovka",
+   "country":"Russia",
+   "IATA":"\\N",
+   "ICAO":"UWOD"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ 59.683333,52.078333,0 ]
+   },
+   "properties": {
+   "name":"Kvarkeno",
+   "city":"Kvarkeno",
+   "country":"Russia",
+   "IATA":"\\N",
+   "ICAO":"UWOH"
+   }
   },
   {
     "type": "Feature",

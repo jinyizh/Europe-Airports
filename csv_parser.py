@@ -1,5 +1,7 @@
 import pandas as pd
 
+# data still needed to be cleaned up after parsing
+
 with open('airports.csv', 'r', encoding="utf-8") as inp:
     lines = inp.readlines()
 
