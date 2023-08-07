@@ -541,7 +541,7 @@
     },
     "properties": {
     "name":"Schönhagen Airport",
-    "city":"Schoenhagen",
+    "city":"Schönhagen",
     "country":"Germany",
     "IATA":"QXH",
     "ICAO":"EDAZ"
@@ -1129,7 +1129,7 @@
     },
     "properties": {
     "name":"Mönchengladbach Airport",
-    "city":"Moenchengladbach",
+    "city":"Mönchengladbach",
     "country":"Germany",
     "IATA":"MGL",
     "ICAO":"EDLN"
@@ -5315,7 +5315,7 @@
     },
     "properties": {
     "name":"Malmen Air Base",
-    "city":"Linkoeping",
+    "city":"Linköping",
     "country":"Sweden",
     "IATA":"N/A",
     "ICAO":"ESCF"
@@ -5399,7 +5399,7 @@
     },
     "properties": {
     "name":"Jönköping Airport",
-    "city":"Joenkoeping",
+    "city":"Jönköping",
     "country":"Sweden",
     "IATA":"JKG",
     "ICAO":"ESGJ"
@@ -5413,7 +5413,7 @@
     },
     "properties": {
     "name":"Falköping Airport",
-    "city":"Falkoping",
+    "city":"Falköping",
     "country":"Sweden",
     "IATA":"N/A",
     "ICAO":"ESGK"
@@ -5427,7 +5427,7 @@
     },
     "properties": {
     "name":"Lidköping-Hovby Airport",
-    "city":"Lidkoping",
+    "city":"Lidköping",
     "country":"Sweden",
     "IATA":"LDK",
     "ICAO":"ESGL"
@@ -5455,7 +5455,7 @@
     },
     "properties": {
     "name":"Skövde Airport",
-    "city":"Skovde",
+    "city":"Skövde",
     "country":"Sweden",
     "IATA":"KVB",
     "ICAO":"ESGR"
@@ -5679,7 +5679,7 @@
     },
     "properties": {
     "name":"Malmö Sturup Airport",
-    "city":"Malmoe",
+    "city":"Malmö",
     "country":"Sweden",
     "IATA":"MMX",
     "ICAO":"ESMS"
@@ -5875,7 +5875,7 @@
     },
     "properties": {
     "name":"Örnsköldsvik Airport",
-    "city":"Ornskoldsvik",
+    "city":"Örnsköldsvik",
     "country":"Sweden",
     "IATA":"OER",
     "ICAO":"ESNO"
@@ -6001,7 +6001,7 @@
     },
     "properties": {
     "name":"Örebro Airport",
-    "city":"Orebro",
+    "city":"Örebro",
     "country":"Sweden",
     "IATA":"ORB",
     "ICAO":"ESOE"
@@ -6141,7 +6141,7 @@
     },
     "properties": {
     "name":"Linköping City Airport",
-    "city":"Linkoeping",
+    "city":"Linköping",
     "country":"Sweden",
     "IATA":"LPI",
     "ICAO":"ESSL"
@@ -6155,7 +6155,7 @@
     },
     "properties": {
     "name":"Norrköping Airport",
-    "city":"Norrkoeping",
+    "city":"Norrköping",
     "country":"Sweden",
     "IATA":"NRK",
     "ICAO":"ESSP"
@@ -6378,8 +6378,8 @@
        "coordinates":  [ 11.940199851989746,49.69869995117188,1363 ]
     },
     "properties": {
-    "name":"Grafenwohr Army Air Field",
-    "city":"Grafenwoehr",
+    "name":"Grafenwöhr Army Air Field",
+    "city":"Grafenwöhr",
     "country":"Germany",
     "IATA":"N/A",
     "ICAO":"ETIC"
@@ -6519,7 +6519,7 @@
     },
     "properties": {
     "name":"Nörvenich Air Base",
-    "city":"Noervenich",
+    "city":"Nörvenich",
     "country":"Germany",
     "IATA":"N/A",
     "ICAO":"ETNN"
@@ -8366,8 +8366,8 @@
        "coordinates":  [ -3.664720058441162,48.0525016784668,574 ]
     },
     "properties": {
-    "name":"Guiscriff Scaer Airport",
-    "city":"Guiscriff-scaer",
+    "name":"Guiscriff Scaër Airport",
+    "city":"Guiscriff / Scaër",
     "country":"France",
     "IATA":"N/A",
     "ICAO":"LFES"
@@ -13980,7 +13980,7 @@
        "coordinates":  [ 21.035801,42.5728,1789 ]
     },
     "properties": {
-    "name":"Priština International Airport",
+    "name":"Pristina International Airport",
     "city":"Pristina",
     "country":"Kosovo",
     "IATA":"PRN",
@@ -14989,7 +14989,7 @@
     },
     "properties": {
     "name":"Karlsruhe Baden-Baden Airport",
-    "city":"Karlsruhe/Baden-Baden",
+    "city":"Karlsruhe / Baden-Baden",
     "country":"Germany",
     "IATA":"FKB",
     "ICAO":"EDSB"
@@ -16473,7 +16473,7 @@
     },
     "properties": {
     "name":"Balıkesir Körfez Airport",
-    "city":"Balıkesir Korfez",
+    "city":"Balıkesir Körfez",
     "country":"Türkiye",
     "IATA":"EDO",
     "ICAO":"LTFD"
@@ -17312,8 +17312,8 @@
        "coordinates":  [ 14.0083,47.478298,2142 ]
     },
     "properties": {
-    "name":"Niederoeblarn Airport",
-    "city":"Niederoeblarn",
+    "name":"Niederöblarn Airport",
+    "city":"Niederöblarn",
     "country":"Austria",
     "IATA":"N/A",
     "ICAO":"LOGO"
@@ -17327,7 +17327,7 @@
     },
     "properties": {
     "name":"Vöslau Airport",
-    "city":"Bad Voeslau",
+    "city":"Bad Vöslau",
     "country":"Austria",
     "IATA":"N/A",
     "ICAO":"LOAV"
@@ -17635,7 +17635,7 @@
     },
     "properties": {
     "name":"Höxter-Holzminden Airport",
-    "city":"Hoexter Holzminden",
+    "city":"Höxter Holzminden",
     "country":"Germany",
     "IATA":"N/A",
     "ICAO":"EDVI"
@@ -18489,7 +18489,7 @@
     },
     "properties": {
     "name":"Courtelary Airport",
-    "city":"Courtelary ",
+    "city":"Courtelary",
     "country":"Switzerland",
     "IATA":"N/A",
     "ICAO":"LSZJ"
@@ -19595,7 +19595,7 @@
     },
     "properties": {
     "name":"Köthen Airport",
-    "city":"Koethen",
+    "city":"Köthen",
     "country":"Germany",
     "IATA":"KOQ",
     "ICAO":"EDCK"
@@ -19608,7 +19608,7 @@
        "coordinates":  [ 9.14472198486328,53.978057861328125,125 ]
     },
     "properties": {
-    "name":"St. Michaelisdonn Airport",
+    "name":"Sankt Michaelisdonn Airport",
     "city":"Sankt Michaelisdonn",
     "country":"Germany",
     "IATA":"N/A",
@@ -19637,7 +19637,7 @@
     },
     "properties": {
     "name":"Karlshöfen Airport",
-    "city":"Karlshoefen",
+    "city":"Karlshöfen",
     "country":"Germany",
     "IATA":"N/A",
     "ICAO":"EDWK"
@@ -19692,7 +19692,7 @@
        "coordinates":  [ 8.686944007873535,54.30888748168945,7 ]
     },
     "properties": {
-    "name":"St. Peter-Ording Airport",
+    "name":"Sankt Peter-Ording Airport",
     "city":"Sankt Peter-Ording",
     "country":"Germany",
     "IATA":"PSH",
@@ -20001,7 +20001,7 @@
     },
     "properties": {
     "name":"Oerlinghausen Airport",
-    "city":"TELGTE",
+    "city":"Telgte",
     "country":"Germany",
     "IATA":"N/A",
     "ICAO":"EDLO"
@@ -20253,7 +20253,7 @@
     },
     "properties": {
     "name":"Nötsch Im Gailtal Airport",
-    "city":"Notsch Im Gailtal",
+    "city":"Nötsch Im Gailtal",
     "country":"Austria",
     "IATA":"N/A",
     "ICAO":"LOKN"
@@ -20407,7 +20407,7 @@
     },
     "properties": {
     "name":"Söderhamn Airport",
-    "city":"Soderhamn",
+    "city":"Söderhamn",
     "country":"Sweden",
     "IATA":"SOO",
     "ICAO":"ESNY"
@@ -20491,7 +20491,7 @@
     },
     "properties": {
     "name":"Peenemünde Airport",
-    "city":"Peenemunde",
+    "city":"Peenemünde",
     "country":"Germany",
     "IATA":"PEF",
     "ICAO":"EDCP"
@@ -20631,7 +20631,7 @@
     },
     "properties": {
     "name":"Goetsenhoven Air Base",
-    "city":"GOETSENHOVEN",
+    "city":"Goetsenhoven",
     "country":"Belgium",
     "IATA":"N/A",
     "ICAO":"EBTN"
@@ -21107,7 +21107,7 @@
     },
     "properties": {
     "name":"Bingöl Çeltiksuyu Airport",
-    "city":"Bingol",
+    "city":"Bingöl",
     "country":"Türkiye",
     "IATA":"BGG",
     "ICAO":"LTCU"
@@ -21933,7 +21933,7 @@
     },
     "properties": {
     "name":"Marburg-Schönstadt Airport",
-    "city":"Schoenstadt",
+    "city":"Schönstadt",
     "country":"Germany",
     "IATA":"N/A",
     "ICAO":"EDFN"
@@ -22409,7 +22409,7 @@
     },
     "properties": {
     "name":"Blois-Le Breuil Airport",
-    "city":"Blois/Le Breuil",
+    "city":"Blois / Le Breuil",
     "country":"France",
     "IATA":"N/A",
     "ICAO":"LFOQ"
@@ -23543,7 +23543,7 @@
     },
     "properties": {
     "name":"Kirkjubæjarklaustur Airport",
-    "city":"Kirkjubæjarklaustur ",
+    "city":"Kirkjubæjarklaustur",
     "country":"Iceland",
     "IATA":"N/A",
     "ICAO":"BIKL"
