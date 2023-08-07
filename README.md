@@ -1,2 +1,6 @@
 # Europe-Airports
- D3 interactive map of airports in the European countries (including Turkey and South Caucasus)
+Map of airports in European countries using D3.js library. Data imported from amCharts4 library and OpenFlight database.
+
+Preview:
+
+![pic](./assets/screenshot.jpg)
