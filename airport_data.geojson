@@ -275,7 +275,7 @@
     },
     "properties": {
     "name":"Wevelgem Airport",
-    "city":"Kortrijk-vevelgem",
+    "city":"Kortrijk / Wevelgem",
     "country":"Belgium",
     "IATA":"KJK",
     "ICAO":"EBKT"
@@ -345,7 +345,7 @@
     },
     "properties": {
     "name":"Saint Hubert Air Base",
-    "city":"St.-hubert",
+    "city":"Saint Hubert",
     "country":"Belgium",
     "IATA":"N/A",
     "ICAO":"EBSU"
@@ -1339,7 +1339,7 @@
     },
     "properties": {
     "name":"Aalen-Heidenheim/Elchingen Airport",
-    "city":"Aalen-heidenheim",
+    "city":"Aalen-Heidenheim",
     "country":"Germany",
     "IATA":"N/A",
     "ICAO":"EDPA"
@@ -1759,7 +1759,7 @@
     },
     "properties": {
     "name":"Lennart Meri Tallinn Airport",
-    "city":"Tallinn-ulemiste International",
+    "city":"Tallinn",
     "country":"Estonia",
     "IATA":"TLL",
     "ICAO":"EETN"
@@ -1968,8 +1968,8 @@
        "coordinates":  [ 25.678300857544,62.399501800537,459 ]
     },
     "properties": {
-    "name":"Jyvaskyla Airport",
-    "city":"Jyvaskyla",
+    "name":"Jyväskylä Airport",
+    "city":"Jyväskylä",
     "country":"Finland",
     "IATA":"JYV",
     "ICAO":"EFJY"
@@ -2039,7 +2039,7 @@
     },
     "properties": {
     "name":"Kokkola-Pietarsaari Airport",
-    "city":"Kruunupyy",
+    "city":"Kronoby",
     "country":"Finland",
     "IATA":"KOK",
     "ICAO":"EFKK"
@@ -2445,7 +2445,7 @@
     },
     "properties": {
     "name":"Ylivieska Airfield",
-    "city":"Ylivieska-raudaskyla",
+    "city":"Ylivieska / Raudaskylä",
     "country":"Finland",
     "IATA":"YLI",
     "ICAO":"EFYL"
@@ -3887,7 +3887,7 @@
     },
     "properties": {
     "name":"RAF Linton-On-Ouse",
-    "city":"Linton-on-ouse",
+    "city":"Linton-on-Ouse",
     "country":"United Kingdom",
     "IATA":"HRT",
     "ICAO":"EGXU"
@@ -4069,7 +4069,7 @@
     },
     "properties": {
     "name":"Gilze Rijen Air Base",
-    "city":"Gilze-rijen",
+    "city":"Gilze-Rijen",
     "country":"Netherlands",
     "IATA":"GLZ",
     "ICAO":"EHGR"
@@ -7723,7 +7723,7 @@
     },
     "properties": {
     "name":"Bagnoles-de-l'Orne-Couterne Airport",
-    "city":"Bagnole-de-l'orne",
+    "city":"Bagnole-de-l'Orne",
     "country":"France",
     "IATA":"N/A",
     "ICAO":"LFAO"
@@ -7919,7 +7919,7 @@
     },
     "properties": {
     "name":"Mont-de-Marsan (BA 118) Air Base",
-    "city":"Mont-de-marsan",
+    "city":"Mont-de-Marsan",
     "country":"France",
     "IATA":"N/A",
     "ICAO":"LFBM"
@@ -8045,7 +8045,7 @@
     },
     "properties": {
     "name":"Biarritz-Anglet-Bayonne Airport",
-    "city":"Biarritz-bayonne",
+    "city":"Biarritz / Bayonne",
     "country":"France",
     "IATA":"BIQ",
     "ICAO":"LFBZ"
@@ -8073,7 +8073,7 @@
     },
     "properties": {
     "name":"Saint-Girons-Antichan Airport",
-    "city":"St.-girons",
+    "city":"Saint-Girons",
     "country":"France",
     "IATA":"N/A",
     "ICAO":"LFCG"
@@ -8199,7 +8199,7 @@
     },
     "properties": {
     "name":"Villeneuve-sur-Lot Airport",
-    "city":"Villeneuve-sur-lot",
+    "city":"Villeneuve-sur-Lot",
     "country":"France",
     "IATA":"N/A",
     "ICAO":"LFCW"
@@ -8241,7 +8241,7 @@
     },
     "properties": {
     "name":"Aire-sur-l'Adour Airport",
-    "city":"Aire-sur-l'adour",
+    "city":"Aire-sur-l'Adour",
     "country":"France",
     "IATA":"N/A",
     "ICAO":"LFDA"
@@ -8479,7 +8479,7 @@
     },
     "properties": {
     "name":"Aubenas-Ardèche Méridional Airport",
-    "city":"Aubenas-vals-lanas",
+    "city":"Aubenas / Vals / Lanas",
     "country":"France",
     "IATA":"OBS",
     "ICAO":"LFHO"
@@ -8507,7 +8507,7 @@
     },
     "properties": {
     "name":"Saint-Flour-Coltines Airport",
-    "city":"St.-flour",
+    "city":"Saint-Flour",
     "country":"France",
     "IATA":"N/A",
     "ICAO":"LFHQ"
@@ -8829,7 +8829,7 @@
     },
     "properties": {
     "name":"Saint-Yan Airport",
-    "city":"St.-yan",
+    "city":"Saint-Yan",
     "country":"France",
     "IATA":"SYT",
     "ICAO":"LFLN"
@@ -8969,7 +8969,7 @@
     },
     "properties": {
     "name":"Aix-en-Provence (BA 114) Airport",
-    "city":"Aix-les-milles",
+    "city":"Aix-les-Milles",
     "country":"France",
     "IATA":"N/A",
     "ICAO":"LFMA"
@@ -9501,7 +9501,7 @@
     },
     "properties": {
     "name":"Toussus-le-Noble Airport",
-    "city":"Toussous-le-noble",
+    "city":"Toussous-le-Noble",
     "country":"France",
     "IATA":"TNF",
     "ICAO":"LFPN"
@@ -9851,7 +9851,7 @@
     },
     "properties": {
     "name":"La Roche-sur-Yon Airport",
-    "city":"La Roche-sur-yon",
+    "city":"La Roche-sur-Yon",
     "country":"France",
     "IATA":"EDM",
     "ICAO":"LFRI"
@@ -9977,7 +9977,7 @@
     },
     "properties": {
     "name":"Saint-Brieuc-Armor Airport",
-    "city":"St.-brieuc Armor",
+    "city":"Saint-Brieuc / Armor",
     "country":"France",
     "IATA":"SBK",
     "ICAO":"LFRT"
@@ -10019,7 +10019,7 @@
     },
     "properties": {
     "name":"Saint-Nazaire-Montoir Airport",
-    "city":"St.-nazaire",
+    "city":"Saint-Nazaire",
     "country":"France",
     "IATA":"SNR",
     "ICAO":"LFRZ"
@@ -10117,7 +10117,7 @@
     },
     "properties": {
     "name":"Saint-Dizier-Robinson (BA 113) Air Base",
-    "city":"St.-dizier",
+    "city":"Saint-Dizier",
     "country":"France",
     "IATA":"N/A",
     "ICAO":"LFSI"
@@ -12819,7 +12819,7 @@
     },
     "properties": {
     "name":"Bacău Airport",
-    "city":"Bacau",
+    "city":"Bacău",
     "country":"Romania",
     "IATA":"BCM",
     "ICAO":"LRBC"
@@ -12861,7 +12861,7 @@
     },
     "properties": {
     "name":"Mihail Kogălniceanu International Airport",
-    "city":"Constanta",
+    "city":"Constanța",
     "country":"Romania",
     "IATA":"CND",
     "ICAO":"LRCK"
@@ -12875,7 +12875,7 @@
     },
     "properties": {
     "name":"Cluj-Napoca International Airport",
-    "city":"Cluj-napoca",
+    "city":"Cluj-Napoca",
     "country":"Romania",
     "IATA":"CLJ",
     "ICAO":"LRCL"
@@ -14233,7 +14233,7 @@
     },
     "properties": {
     "name":"Pulkovo Airport",
-    "city":"St. Petersburg",
+    "city":"Saint Petersburg",
     "country":"Russia",
     "IATA":"LED",
     "ICAO":"ULLI"
@@ -15325,7 +15325,7 @@
     },
     "properties": {
     "name":"St. Mary's Airport",
-    "city":"ST MARY\\'S",
+    "city":"St. Mary\\'s",
     "country":"United Kingdom",
     "IATA":"ISC",
     "ICAO":"EGHE"
@@ -17243,7 +17243,7 @@
     },
     "properties": {
     "name":"Andernos Les Bains Airport",
-    "city":"Andernos-Les-Bains",
+    "city":"Andernos-les-Bains",
     "country":"France",
     "IATA":"N/A",
     "ICAO":"LFCD"
@@ -17285,7 +17285,7 @@
     },
     "properties": {
     "name":"Yverdon-les-Bains Airport",
-    "city":"Yverdon-Les-Bains",
+    "city":"Yverdon-les-Bains",
     "country":"Switzerland",
     "IATA":"N/A",
     "ICAO":"LSGY"
@@ -17635,7 +17635,7 @@
     },
     "properties": {
     "name":"Höxter-Holzminden Airport",
-    "city":"Höxter Holzminden",
+    "city":"Höxter / Holzminden",
     "country":"Germany",
     "IATA":"N/A",
     "ICAO":"EDVI"
@@ -18475,7 +18475,7 @@
     },
     "properties": {
     "name":"Wangen-Lachen Airport",
-    "city":"Wangen-Lachen",
+    "city":"Wangen / Lachen",
     "country":"Switzerland",
     "IATA":"N/A",
     "ICAO":"LSPV"
@@ -19385,7 +19385,7 @@
     },
     "properties": {
     "name":"Nienburg-Holzbalge Airport",
-    "city":"Nienburg Weser",
+    "city":"Nienburg (Weser)",
     "country":"Germany",
     "IATA":"N/A",
     "ICAO":"EDXI"
@@ -22619,7 +22619,7 @@
     },
     "properties": {
     "name":"Gvardeyskoe Air Base",
-    "city":"Sarabuz",
+    "city":"Hvardiiske",
     "country":"Ukraine",
     "IATA":"N/A",
     "ICAO":"UKFG"
@@ -22689,7 +22689,7 @@
     },
     "properties": {
     "name":"Pushkin Airport",
-    "city":"St. Petersburg",
+    "city":"Saint Petersburg",
     "country":"Russia",
     "IATA":"N/A",
     "ICAO":"ULLP"
