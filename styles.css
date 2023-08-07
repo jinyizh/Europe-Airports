@@ -17,5 +17,9 @@ path {
 }
 
 circle {
-    fill: red;
+    fill: orangered;
+}
+
+#notes_data {
+    font-style: italic;
 }

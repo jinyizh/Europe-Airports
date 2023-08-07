@@ -73,7 +73,6 @@
               .style('top', d3.event.pageY - 10 + 'px')
               .style('left', d3.event.pageX + 10 + 'px')
               .text(`${d.properties.name}`);
-              console.log("d.properties.name")
            })
            .on('mouseout', function() {
             d3.select(this).attr('stroke-width', 1);
@@ -101,13 +100,19 @@
         tooltip_airport
             .style('top', d3.event.pageY - 10 + 'px')
             .style('left', d3.event.pageX + 10 + 'px')
-            .text(d.properties.name);
+            .html(
+                "Name: " + d.properties.name + "<br>" + 
+                "Location: " + d.properties.city + ", " + d.properties.country + "<br>" + 
+                "IATA: " + d.properties.IATA + "<br>" + 
+                "ICAO: " + d.properties.ICAO + "<br>" + 
+                "Altitude: " + d.geometry.coordinates[2] + " feet"
+            )
+            // .text(`${d.properties.name}` + '\r\n' + 'test');
         })
         .on('mouseout', function() {
             d3.select(this).attr('r', 1.5);
             tooltip_airport.style('visibility', 'hidden');
         })
-
 
     // used to test boundary locations
     // svg.append("circle")

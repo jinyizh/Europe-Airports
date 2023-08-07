@@ -23,7 +23,7 @@
     },
     "properties": {
     "name":"Egilsstaðir Airport",
-    "city":"Egilsstadir",
+    "city":"Egilsstaðir",
     "country":"Iceland",
     "IATA":"EGS",
     "ICAO":"BIEG"
@@ -37,7 +37,7 @@
     },
     "properties": {
     "name":"Hornafjörður Airport",
-    "city":"Hofn",
+    "city":"Höfn",
     "country":"Iceland",
     "IATA":"HFN",
     "ICAO":"BIHN"
@@ -51,7 +51,7 @@
     },
     "properties": {
     "name":"Húsavík Airport",
-    "city":"Husavik",
+    "city":"Húsavík",
     "country":"Iceland",
     "IATA":"HZK",
     "ICAO":"BIHU"
@@ -65,7 +65,7 @@
     },
     "properties": {
     "name":"Ísafjörður Airport",
-    "city":"Isafjordur",
+    "city":"Ísafjörður",
     "country":"Iceland",
     "IATA":"IFJ",
     "ICAO":"BIIS"
@@ -93,7 +93,7 @@
     },
     "properties": {
     "name":"Patreksfjörður Airport",
-    "city":"Patreksfjordur",
+    "city":"Patreksfjörður",
     "country":"Iceland",
     "IATA":"PFJ",
     "ICAO":"BIPA"
@@ -121,7 +121,7 @@
     },
     "properties": {
     "name":"Siglufjörður Airport",
-    "city":"Siglufjordur",
+    "city":"Siglufjörður",
     "country":"Iceland",
     "IATA":"SIJ",
     "ICAO":"BISI"
@@ -165,7 +165,7 @@
     "name":"Beauvechain Air Base",
     "city":"Beauvechain",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBBE"
     }
   },
@@ -179,7 +179,7 @@
     "name":"Kleine Brogel Air Base",
     "city":"Kleine Brogel",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBBL"
     }
   },
@@ -207,7 +207,7 @@
     "name":"Jehonville Air Base",
     "city":"Bertrix",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBBX"
     }
   },
@@ -235,7 +235,7 @@
     "name":"Chièvres Air Base",
     "city":"Chievres",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBCV"
     }
   },
@@ -249,7 +249,7 @@
     "name":"Koksijde Air Base",
     "city":"Koksijde",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBFN"
     }
   },
@@ -263,7 +263,7 @@
     "name":"Florennes Air Base",
     "city":"Florennes",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBFS"
     }
   },
@@ -319,7 +319,7 @@
     "name":"Zutendaal Air Base",
     "city":"Zutendaal",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBSL"
     }
   },
@@ -333,7 +333,7 @@
     "name":"Brustem Airfield Sint Truiden",
     "city":"Sint-truiden",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBST"
     }
   },
@@ -347,7 +347,7 @@
     "name":"Saint Hubert Air Base",
     "city":"St.-hubert",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBSU"
     }
   },
@@ -361,7 +361,7 @@
     "name":"Ursel Air Base",
     "city":"Ursel",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBUL"
     }
   },
@@ -375,7 +375,7 @@
     "name":"Weelde Air Base",
     "city":"Weelde",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBWE"
     }
   },
@@ -403,7 +403,7 @@
     "name":"Flugplatz Bautzen",
     "city":"Bautzen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAB"
     }
   },
@@ -431,7 +431,7 @@
     "name":"Dessau Airfield",
     "city":"Dessau",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAD"
     }
   },
@@ -445,7 +445,7 @@
     "name":"Eisenhüttenstadt Airfield",
     "city":"Eisenhuettenstadt",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAE"
     }
   },
@@ -459,7 +459,7 @@
     "name":"Großenhain Airport",
     "city":"Suhl",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAK"
     }
   },
@@ -473,7 +473,7 @@
     "name":"Merseburg Airport",
     "city":"Muehlhausen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAM"
     }
   },
@@ -487,7 +487,7 @@
     "name":"Halle-Oppin Airport",
     "city":"Halle",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAQ"
     }
   },
@@ -529,7 +529,7 @@
     "name":"Strausberg Airport",
     "city":"Strausberg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAY"
     }
   },
@@ -571,7 +571,7 @@
     "name":"Jena-Schöngleina Airfield",
     "city":"Jena",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDBJ"
     }
   },
@@ -585,7 +585,7 @@
     "name":"Kyritz Airport",
     "city":"Kyritz",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDBK"
     }
   },
@@ -613,7 +613,7 @@
     "name":"Rothenburg/Görlitz Airport",
     "city":"Rothenburg/ol",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDBR"
     }
   },
@@ -627,7 +627,7 @@
     "name":"Anklam Airfield",
     "city":"Anklam",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDCA"
     }
   },
@@ -655,7 +655,7 @@
     "name":"Kamenz Airport",
     "city":"Kamenz",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDCM"
     }
   },
@@ -949,7 +949,7 @@
     "name":"Allendorf/Eder Airport",
     "city":"Allendorf",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDFQ"
     }
   },
@@ -963,7 +963,7 @@
     "name":"Worms Airport",
     "city":"Worms",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDFV"
     }
   },
@@ -977,7 +977,7 @@
     "name":"Mainz-Finthen Airport",
     "city":"Mainz",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDFZ"
     }
   },
@@ -1061,7 +1061,7 @@
     "name":"Flugplatz Dahlemer Binz",
     "city":"Dahlemer Binz",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDKV"
     }
   },
@@ -1075,7 +1075,7 @@
     "name":"Meinerzhagen Airport",
     "city":"Meinerzhagen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDKZ"
     }
   },
@@ -1089,7 +1089,7 @@
     "name":"Arnsberg-Menden Airport",
     "city":"Arnsberg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDLA"
     }
   },
@@ -1159,7 +1159,7 @@
     "name":"Stadtlohn-Vreden Airport",
     "city":"Stadtlohn",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDLS"
     }
   },
@@ -1201,7 +1201,7 @@
     "name":"Biberach a.d. Riß Airfield",
     "city":"Biberach",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDMB"
     }
   },
@@ -1215,7 +1215,7 @@
     "name":"Eggenfelden Airport",
     "city":"Eggenfelden",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDME"
     }
   },
@@ -1229,7 +1229,7 @@
     "name":"Mindelheim-Mattsies Airfield",
     "city":"Mindelheim",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDMN"
     }
   },
@@ -1271,7 +1271,7 @@
     "name":"Vilshofen Airport",
     "city":"Vilshofen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDMV"
     }
   },
@@ -1285,7 +1285,7 @@
     "name":"Leutkirch-Unterzeil Airport",
     "city":"Leutkirch",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDNL"
     }
   },
@@ -1327,7 +1327,7 @@
     "name":"Stendal-Borstel Airport",
     "city":"Stendal",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDOV"
     }
   },
@@ -1341,7 +1341,7 @@
     "name":"Aalen-Heidenheim/Elchingen Airport",
     "city":"Aalen-heidenheim",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDPA"
     }
   },
@@ -1397,7 +1397,7 @@
     "name":"Haßfurt-Schweinfurt Airport",
     "city":"Hassfurt",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDQT"
     }
   },
@@ -1411,7 +1411,7 @@
     "name":"Koblenz-Winningen Airfield",
     "city":"Koblenz",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDRK"
     }
   },
@@ -1425,7 +1425,7 @@
     "name":"Trier-Föhren Airport",
     "city":"Trier",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDRT"
     }
   },
@@ -1439,7 +1439,7 @@
     "name":"Speyer Airfield",
     "city":"Speyer",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDRY"
     }
   },
@@ -1481,7 +1481,7 @@
     "name":"Freiburg i. Br. Airport",
     "city":"Freiburg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDTF"
     }
   },
@@ -1495,7 +1495,7 @@
     "name":"Mengen-Hohentengen Airport",
     "city":"Mengen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDTM"
     }
   },
@@ -1509,7 +1509,7 @@
     "name":"Adolf Würth Airport",
     "city":"Schwaebisch Hall",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDTY"
     }
   },
@@ -1523,7 +1523,7 @@
     "name":"Finsterwalde/Schacksdorf Airport",
     "city":"Soest",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDUS"
     }
   },
@@ -1565,7 +1565,7 @@
     "name":"Hildesheim Airport",
     "city":"Hildesheim",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDVM"
     }
   },
@@ -1607,7 +1607,7 @@
     "name":"Leer-Papenburg Airport",
     "city":"Leer",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDWF"
     }
   },
@@ -1677,7 +1677,7 @@
     "name":"Rendsburg-Schachtholm Airport",
     "city":"Rendsburg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDXR"
     }
   },
@@ -1705,7 +1705,7 @@
     "name":"Ämari Air Base",
     "city":"Armari Air Force Base",
     "country":"Estonia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EEEI"
     }
   },
@@ -1803,7 +1803,7 @@
     "name":"Eura Airport",
     "city":"Eura",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFEU"
     }
   },
@@ -1859,7 +1859,7 @@
     "name":"Hameenkyro Airport",
     "city":"Hameenkyro",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFHM"
     }
   },
@@ -1873,7 +1873,7 @@
     "name":"Hanko Airport",
     "city":"Hanko",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFHN"
     }
   },
@@ -1901,7 +1901,7 @@
     "name":"Kiikala Airport",
     "city":"Kikala",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFIK"
     }
   },
@@ -1915,7 +1915,7 @@
     "name":"Immola Airport",
     "city":"Immola",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFIM"
     }
   },
@@ -2055,7 +2055,7 @@
     "name":"Kemijarvi Airport",
     "city":"Kemijarvi",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFKM"
     }
   },
@@ -2153,7 +2153,7 @@
     "name":"Menkijarvi Airport",
     "city":"Menkijarvi",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFME"
     }
   },
@@ -2181,7 +2181,7 @@
     "name":"Nummela Airport",
     "city":"Nummela",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFNU"
     }
   },
@@ -2209,7 +2209,7 @@
     "name":"Piikajarvi Airport",
     "city":"Piikajarvi",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFPI"
     }
   },
@@ -2237,7 +2237,7 @@
     "name":"Pudasjärvi Airport",
     "city":"Pudasjarvi",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFPU"
     }
   },
@@ -2251,7 +2251,7 @@
     "name":"Pyhäsalmi Airport",
     "city":"Pyhasalmi",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFPY"
     }
   },
@@ -2265,7 +2265,7 @@
     "name":"Raahe Pattijoki Airport",
     "city":"Pattijoki",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFRH"
     }
   },
@@ -2279,7 +2279,7 @@
     "name":"Rantasalmi Airport",
     "city":"Rantasalmi",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFRN"
     }
   },
@@ -2307,7 +2307,7 @@
     "name":"Rayskala Airport",
     "city":"Rayskala",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFRY"
     }
   },
@@ -2335,7 +2335,7 @@
     "name":"Selanpaa Airport",
     "city":"Selanpaa",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFSE"
     }
   },
@@ -2377,7 +2377,7 @@
     "name":"Teisko Airport",
     "city":"Teisko",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFTS"
     }
   },
@@ -2545,7 +2545,7 @@
     "name":"Leicester Airport",
     "city":"Leicester",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGBG"
     }
   },
@@ -2573,7 +2573,7 @@
     "name":"Wolverhampton Halfpenny Green Airport",
     "city":"Halfpenny Green",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGBO"
     }
   },
@@ -2601,7 +2601,7 @@
     "name":"Turweston Airport",
     "city":"Turweston",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGBT"
     }
   },
@@ -2615,7 +2615,7 @@
     "name":"Wellesbourne Mountford Airport",
     "city":"Wellesbourne",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGBW"
     }
   },
@@ -2643,7 +2643,7 @@
     "name":"Manchester Woodford Airport",
     "city":"Woodfort",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGCD"
     }
   },
@@ -2657,7 +2657,7 @@
     "name":"Royal Marines Base Chivenor Airport",
     "city":"Chivenor",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGDC"
     }
   },
@@ -2699,7 +2699,7 @@
     "name":"MoD Boscombe Down Airport",
     "city":"Boscombe Down",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGDM"
     }
   },
@@ -2713,7 +2713,7 @@
     "name":"RNAS Culdrose",
     "city":"Culdrose",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGDR"
     }
   },
@@ -2727,7 +2727,7 @@
     "name":"MoD St. Athan",
     "city":"St. Athan",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGDX"
     }
   },
@@ -2965,7 +2965,7 @@
     "name":"Chalgrove Airport",
     "city":"Chalsgrove",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGLJ"
     }
   },
@@ -3049,7 +3049,7 @@
     "name":"Brough Airport",
     "city":"Brough",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGNB"
     }
   },
@@ -3077,7 +3077,7 @@
     "name":"Retford Gamston Airport",
     "city":"Repton",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGNE"
     }
   },
@@ -3217,7 +3217,7 @@
     "name":"Llanbedr Airport",
     "city":"Llanbedr",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGOD"
     }
   },
@@ -3231,7 +3231,7 @@
     "name":"RAF Ternhill",
     "city":"Ternhill",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGOE"
     }
   },
@@ -3245,7 +3245,7 @@
     "name":"RAF Shawbury",
     "city":"Shawbury",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGOS"
     }
   },
@@ -3259,7 +3259,7 @@
     "name":"RAF Woodvale",
     "city":"Woodvale",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGOW"
     }
   },
@@ -3511,7 +3511,7 @@
     "name":"Peterborough Business Airport",
     "city":"Peterborough",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGSF"
     }
   },
@@ -3553,7 +3553,7 @@
     "name":"North Weald Airport",
     "city":"North Weald",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGSX"
     }
   },
@@ -3567,7 +3567,7 @@
     "name":"Sheffield City Heliport",
     "city":"Fowlmere",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGSY"
     }
   },
@@ -3581,7 +3581,7 @@
     "name":"Cranfield Airport",
     "city":"Cranfield",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGTC"
     }
   },
@@ -3679,7 +3679,7 @@
     "name":"RAF Wattisham",
     "city":"Wattisham",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGUW"
     }
   },
@@ -3749,7 +3749,7 @@
     "name":"DCAE Cosford Air Base",
     "city":"Cosford",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGWC"
     }
   },
@@ -3791,7 +3791,7 @@
     "name":"RAF Dishforth",
     "city":"Dishforth",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGXD"
     }
   },
@@ -3805,7 +3805,7 @@
     "name":"Leeming Airport",
     "city":"Leeming",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGXE"
     }
   },
@@ -3819,7 +3819,7 @@
     "name":"Leeds East Airport",
     "city":"Church Fenton",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGXG"
     }
   },
@@ -3847,7 +3847,7 @@
     "name":"RAF Cottesmore",
     "city":"Cottesmore",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGXJ"
     }
   },
@@ -3875,7 +3875,7 @@
     "name":"RAF Wittering",
     "city":"Wittering",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGXT"
     }
   },
@@ -3917,7 +3917,7 @@
     "name":"RAF Topcliffe",
     "city":"Topcliffe",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGXZ"
     }
   },
@@ -3931,7 +3931,7 @@
     "name":"RAF Cranwell",
     "city":"Cranwell",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGYD"
     }
   },
@@ -3945,7 +3945,7 @@
     "name":"RAF Barkston Heath",
     "city":"Barkston Heath",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGYE"
     }
   },
@@ -3987,7 +3987,7 @@
     "name":"Budel Airfield Kempen",
     "city":"Weert",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHBD"
     }
   },
@@ -4015,7 +4015,7 @@
     "name":"Deelen Air Base",
     "city":"Deelen",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHDL"
     }
   },
@@ -4029,7 +4029,7 @@
     "name":"Drachten Airport",
     "city":"Drachten",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHDR"
     }
   },
@@ -4267,7 +4267,7 @@
     "name":"Casement Air Base",
     "city":"Casement",
     "country":"Ireland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EIME"
     }
   },
@@ -4377,9 +4377,9 @@
     },
     "properties": {
     "name":"Grønholt Hillerød Airport",
-    "city":"Gronholt",
+    "city":"Grønholt",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKGH"
     }
   },
@@ -4405,7 +4405,7 @@
     },
     "properties": {
     "name":"Læsø Airport",
-    "city":"Laeso",
+    "city":"Læsø",
     "country":"Denmark",
     "IATA":"BYR",
     "ICAO":"EKLS"
@@ -4449,7 +4449,7 @@
     "name":"Kruså-Padborg Airport",
     "city":"Krusa-padborg",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKPB"
     }
   },
@@ -4489,7 +4489,7 @@
     },
     "properties": {
     "name":"Sønderborg Airport",
-    "city":"Soenderborg",
+    "city":"Sønderborg",
     "country":"Denmark",
     "IATA":"SGD",
     "ICAO":"EKSB"
@@ -4547,7 +4547,7 @@
     "name":"Kolding Vamdrup Airfield",
     "city":"Kolding",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKVD"
     }
   },
@@ -4561,7 +4561,7 @@
     "name":"Vesthimmerlands Flyveplads",
     "city":"Vesthimmerland",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKVH"
     }
   },
@@ -4629,7 +4629,7 @@
     },
     "properties": {
     "name":"Andøya Airport",
-    "city":"Andoya",
+    "city":"Andøya",
     "country":"Norway",
     "IATA":"ANX",
     "ICAO":"ENAN"
@@ -4659,7 +4659,7 @@
     "name":"Bømoen Airport",
     "city":"Voss",
     "country":"Norway",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ENBM"
     }
   },
@@ -4671,7 +4671,7 @@
     },
     "properties": {
     "name":"Brønnøysund Airport",
-    "city":"Bronnoysund",
+    "city":"Brønnøysund",
     "country":"Norway",
     "IATA":"BNN",
     "ICAO":"ENBN"
@@ -4685,7 +4685,7 @@
     },
     "properties": {
     "name":"Bodø Airport",
-    "city":"Bodo",
+    "city":"Bodø",
     "country":"Norway",
     "IATA":"BOO",
     "ICAO":"ENBO"
@@ -4797,7 +4797,7 @@
     },
     "properties": {
     "name":"Florø Airport",
-    "city":"Floro",
+    "city":"Florø",
     "country":"Norway",
     "IATA":"FRO",
     "ICAO":"ENFL"
@@ -4869,7 +4869,7 @@
     "name":"Kjeller Airport",
     "city":"Kjeller",
     "country":"Norway",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ENKJ"
     }
   },
@@ -4923,7 +4923,7 @@
     },
     "properties": {
     "name":"Mosjøen Airport (Kjærstad)",
-    "city":"Mosjoen",
+    "city":"Mosjøen",
     "country":"Norway",
     "IATA":"MJF",
     "ICAO":"ENMS"
@@ -4965,7 +4965,7 @@
     },
     "properties": {
     "name":"Ørland Airport",
-    "city":"Orland",
+    "city":"Ørland",
     "country":"Norway",
     "IATA":"OLA",
     "ICAO":"ENOL"
@@ -4979,7 +4979,7 @@
     },
     "properties": {
     "name":"Røros Airport",
-    "city":"Roros",
+    "city":"Røros",
     "country":"Norway",
     "IATA":"RRS",
     "ICAO":"ENRO"
@@ -5049,7 +5049,7 @@
     },
     "properties": {
     "name":"Sandnessjøen Airport (Stokka)",
-    "city":"Sandnessjoen",
+    "city":"Sandnessjøen",
     "country":"Norway",
     "IATA":"SSJ",
     "ICAO":"ENST"
@@ -5062,8 +5062,8 @@
        "coordinates":  [ 18.91889953613281,69.68329620361328,31 ]
     },
     "properties": {
-    "name":"Tromsø Airport,",
-    "city":"Tromso",
+    "name":"Tromsø Airport",
+    "city":"Tromsø",
     "country":"Norway",
     "IATA":"TOS",
     "ICAO":"ENTC"
@@ -5121,7 +5121,7 @@
     "name":"Babice Airport",
     "city":"Warsaw",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPBC"
     }
   },
@@ -5163,7 +5163,7 @@
     "name":"Muchowiec Airport",
     "city":"Katowice",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPKM"
     }
   },
@@ -5191,7 +5191,7 @@
     "name":"Mielec Airport",
     "city":"Mielec",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPML"
     }
   },
@@ -5261,7 +5261,7 @@
     "name":"Swidwin Military Air Base",
     "city":"Shapaja",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPSN"
     }
   },
@@ -5317,7 +5317,7 @@
     "name":"Malmen Air Base",
     "city":"Linkoeping",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESCF"
     }
   },
@@ -5331,7 +5331,7 @@
     "name":"Bråvalla Air Base",
     "city":"Norrkoeping",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESCK"
     }
   },
@@ -5345,7 +5345,7 @@
     "name":"Uppsala Airport",
     "city":"Uppsala",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESCM"
     }
   },
@@ -5373,7 +5373,7 @@
     "name":"Råda Air Base",
     "city":"Rada",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESFR"
     }
   },
@@ -5415,7 +5415,7 @@
     "name":"Falköping Airport",
     "city":"Falkoping",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESGK"
     }
   },
@@ -5485,7 +5485,7 @@
     "name":"Karlsborg Air Base",
     "city":"Karlsborg",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESIA"
     }
   },
@@ -5499,7 +5499,7 @@
     "name":"Såtenäs Air Base",
     "city":"Satenas",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESIB"
     }
   },
@@ -5513,7 +5513,7 @@
     "name":"Barkarby Airport",
     "city":"Stockholm",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESKB"
     }
   },
@@ -5569,7 +5569,7 @@
     "name":"Arvika Airport",
     "city":"Arvika",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESKV"
     }
   },
@@ -5583,7 +5583,7 @@
     "name":"Emmaboda Airfield",
     "city":"Emmaboda",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESMA"
     }
   },
@@ -5597,7 +5597,7 @@
     "name":"Feringe Airport",
     "city":"Ljungby",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESMG"
     }
   },
@@ -5625,7 +5625,7 @@
     "name":"Landskrona Airport",
     "city":"Landskrona",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESML"
     }
   },
@@ -5653,7 +5653,7 @@
     "name":"Anderstorp Airport",
     "city":"Anderstorp",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESMP"
     }
   },
@@ -5709,7 +5709,7 @@
     "name":"Hagshult Air Base",
     "city":"Hagshult",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESMV"
     }
   },
@@ -5737,7 +5737,7 @@
     "name":"Hallviken Airport",
     "city":"Hallviken",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESNA"
     }
   },
@@ -5751,7 +5751,7 @@
     "name":"Hedlanda Airport",
     "city":"Hede",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESNC"
     }
   },
@@ -5807,7 +5807,7 @@
     "name":"Jokkmokk Airport",
     "city":"Jokkmokk",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESNJ"
     }
   },
@@ -5849,7 +5849,7 @@
     "name":"Optand Airport",
     "city":"Optand",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESNM"
     }
   },
@@ -5891,7 +5891,7 @@
     "name":"Piteå Airport",
     "city":"Pitea",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESNP"
     }
   },
@@ -5919,7 +5919,7 @@
     "name":"Orsa Airport",
     "city":"Orsa",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESNR"
     }
   },
@@ -5947,7 +5947,7 @@
     "name":"Sättna Airport",
     "city":"Sattna",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESNT"
     }
   },
@@ -6045,7 +6045,7 @@
     "name":"Vidsel Air Base",
     "city":"Vidsel",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESPE"
     }
   },
@@ -6059,7 +6059,7 @@
     "name":"Arboga Airport",
     "city":"Arboga",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESQO"
     }
   },
@@ -6199,7 +6199,7 @@
     "name":"Kalixfors Airport",
     "city":"Kalixfors",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESUK"
     }
   },
@@ -6255,7 +6255,7 @@
     "name":"Bückeburg Air Base",
     "city":"Brueckeburg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETHB"
     }
   },
@@ -6283,7 +6283,7 @@
     "name":"Rheine Bentlage Air Base",
     "city":"Rheine-brentlange",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETHE"
     }
   },
@@ -6311,7 +6311,7 @@
     "name":"Laupheim Air Base",
     "city":"Laupheim",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETHL"
     }
   },
@@ -6325,7 +6325,7 @@
     "name":"Mendig Airfield",
     "city":"Mendig",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETHM"
     }
   },
@@ -6339,7 +6339,7 @@
     "name":"Niederstetten Army Air Base",
     "city":"Niederstetten",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETHN"
     }
   },
@@ -6353,7 +6353,7 @@
     "name":"Roth Airport",
     "city":"Roth",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETHR"
     }
   },
@@ -6367,7 +6367,7 @@
     "name":"Fassberg Air Base",
     "city":"Fassberg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETHS"
     }
   },
@@ -6381,7 +6381,7 @@
     "name":"Grafenwohr Army Air Field",
     "city":"Grafenwoehr",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETIC"
     }
   },
@@ -6409,7 +6409,7 @@
     "name":"Hohenfels Army Air Field",
     "city":"Hohenfels",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETIH"
     }
   },
@@ -6451,7 +6451,7 @@
     "name":"Diepholz Air Base",
     "city":"Diepholz",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETND"
     }
   },
@@ -6479,7 +6479,7 @@
     "name":"Hohn Air Base",
     "city":"Hohn",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETNH"
     }
   },
@@ -6493,7 +6493,7 @@
     "name":"Jever Air Base",
     "city":"Jever",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETNJ"
     }
   },
@@ -6521,7 +6521,7 @@
     "name":"Nörvenich Air Base",
     "city":"Noervenich",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETNN"
     }
   },
@@ -6549,7 +6549,7 @@
     "name":"Wittmundhafen Airport",
     "city":"Wittmundhafen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETNT"
     }
   },
@@ -6563,7 +6563,7 @@
     "name":"Wunstorf Air Base",
     "city":"Wunstorf",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETNW"
     }
   },
@@ -6577,7 +6577,7 @@
     "name":"Vilseck Army Air Field",
     "city":"Vilseck",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETOI"
     }
   },
@@ -6591,7 +6591,7 @@
     "name":"Coleman Army Air Field",
     "city":"Coleman",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETOR"
     }
   },
@@ -6619,7 +6619,7 @@
     "name":"Landsberg Lech Air Base",
     "city":"Landsberg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETSA"
     }
   },
@@ -6633,7 +6633,7 @@
     "name":"Büchel Air Base",
     "city":"Buechel",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETSB"
     }
   },
@@ -6647,7 +6647,7 @@
     "name":"Erding Airport",
     "city":"Erding",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETSE"
     }
   },
@@ -6675,7 +6675,7 @@
     "name":"Holzdorf Air Base",
     "city":"Holzdorf",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETSH"
     }
   },
@@ -6703,7 +6703,7 @@
     "name":"Lechfeld Air Base",
     "city":"Lechfeld",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETSL"
     }
   },
@@ -6717,7 +6717,7 @@
     "name":"Neuburg AFB",
     "city":"Neuburg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETSN"
     }
   },
@@ -6997,7 +6997,7 @@
     "name":"Osijek-Čepin Airfield",
     "city":"Cepin",
     "country":"Croatia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LDOC"
     }
   },
@@ -7039,7 +7039,7 @@
     "name":"Grobnicko Polje Airport",
     "city":"Grobnik",
     "country":"Croatia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LDRG"
     }
   },
@@ -7081,7 +7081,7 @@
     "name":"Varaždin Airport",
     "city":"Varazdin",
     "country":"Croatia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LDVA"
     }
   },
@@ -7123,7 +7123,7 @@
     "name":"Udbina Air Base",
     "city":"Udbina",
     "country":"Croatia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LDZU"
     }
   },
@@ -7263,7 +7263,7 @@
     "name":"Armilla Air Base",
     "city":"Granada",
     "country":"Spain",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LEGA"
     }
   },
@@ -7305,7 +7305,7 @@
     "name":"Getafe Air Base",
     "city":"Madrid",
     "country":"Spain",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LEGT"
     }
   },
@@ -7417,7 +7417,7 @@
     "name":"Ocaña Airport",
     "city":"Ocana",
     "country":"Spain",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LEOC"
     }
   },
@@ -7445,7 +7445,7 @@
     "name":"Alcantarilla Air Base",
     "city":"Murcia",
     "country":"Spain",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LERI"
     }
   },
@@ -7501,7 +7501,7 @@
     "name":"Son Bonet Airport",
     "city":"Son Bonet",
     "country":"Spain",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LESB"
     }
   },
@@ -7515,7 +7515,7 @@
     "name":"San Luis Airport",
     "city":"San Luis",
     "country":"Spain",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LESL"
     }
   },
@@ -7697,7 +7697,7 @@
     "name":"Péronne-Saint-Quentin Airport",
     "city":"Peronne",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFAG"
     }
   },
@@ -7711,7 +7711,7 @@
     "name":"Nangis-Les Loges Airport",
     "city":"Nangis",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFAI"
     }
   },
@@ -7725,7 +7725,7 @@
     "name":"Bagnoles-de-l'Orne-Couterne Airport",
     "city":"Bagnole-de-l'orne",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFAO"
     }
   },
@@ -7781,7 +7781,7 @@
     "name":"Amiens-Glisy Airport",
     "city":"Amiens",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFAY"
     }
   },
@@ -7809,7 +7809,7 @@
     "name":"Cazaux (BA 120) Air Base",
     "city":"Cazaux",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFBC"
     }
   },
@@ -7851,7 +7851,7 @@
     "name":"Toulouse-Francazal (BA 101) Air Base",
     "city":"Toulouse",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFBF"
     }
   },
@@ -7921,7 +7921,7 @@
     "name":"Mont-de-Marsan (BA 118) Air Base",
     "city":"Mont-de-marsan",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFBM"
     }
   },
@@ -7977,7 +7977,7 @@
     "name":"Muret-Lherm Airport",
     "city":"La Rochelle",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFBR"
     }
   },
@@ -8075,7 +8075,7 @@
     "name":"Saint-Girons-Antichan Airport",
     "city":"St.-girons",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFCG"
     }
   },
@@ -8089,7 +8089,7 @@
     "name":"Arcachon-La Teste-de-Buch Airport",
     "city":"Arcachon",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFCH"
     }
   },
@@ -8131,7 +8131,7 @@
     "name":"Toulouse-Lasbordes Airport",
     "city":"Toulouse",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFCL"
     }
   },
@@ -8145,7 +8145,7 @@
     "name":"Millau-Larzac Airfield",
     "city":"Millau",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFCM"
     }
   },
@@ -8159,7 +8159,7 @@
     "name":"Graulhet-Montdragon Airport",
     "city":"Graulhet",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFCQ"
     }
   },
@@ -8187,7 +8187,7 @@
     "name":"Ussel-Thalamy Airport",
     "city":"Ussel",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFCU"
     }
   },
@@ -8201,7 +8201,7 @@
     "name":"Villeneuve-sur-Lot Airport",
     "city":"Villeneuve-sur-lot",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFCW"
     }
   },
@@ -8229,7 +8229,7 @@
     "name":"Mimizan Airport",
     "city":"Mimizan",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFCZ"
     }
   },
@@ -8243,7 +8243,7 @@
     "name":"Aire-sur-l'Adour Airport",
     "city":"Aire-sur-l'adour",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFDA"
     }
   },
@@ -8271,7 +8271,7 @@
     "name":"Auch-Lamothe Airport",
     "city":"Auch",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFDH"
     }
   },
@@ -8285,7 +8285,7 @@
     "name":"Libourne-Artigues-de-Lussac Airport",
     "city":"Libourne",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFDI"
     }
   },
@@ -8299,7 +8299,7 @@
     "name":"Pamiers-Les Pujols Airport",
     "city":"Pamiers",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFDJ"
     }
   },
@@ -8313,7 +8313,7 @@
     "name":"Marmande-Virazeil Airport",
     "city":"Marmande",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFDM"
     }
   },
@@ -8341,7 +8341,7 @@
     "name":"Pontivy Airport",
     "city":"Pontivy",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFED"
     }
   },
@@ -8355,7 +8355,7 @@
     "name":"Aubigny-sur-Nère Airport",
     "city":"Aubigny-sur-nere",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFEH"
     }
   },
@@ -8369,7 +8369,7 @@
     "name":"Guiscriff Scaer Airport",
     "city":"Guiscriff-scaer",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFES"
     }
   },
@@ -8383,7 +8383,7 @@
     "name":"Ancenis Airport",
     "city":"Ancenis",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFFI"
     }
   },
@@ -8397,7 +8397,7 @@
     "name":"Brienne-le-Château Airport",
     "city":"Brienne-le Chateau",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFFN"
     }
   },
@@ -8425,7 +8425,7 @@
     "name":"Beaune-Challanges Airport",
     "city":"Beaune",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFGF"
     }
   },
@@ -8453,7 +8453,7 @@
     "name":"Joigny Airport",
     "city":"Joigny",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFGK"
     }
   },
@@ -8467,7 +8467,7 @@
     "name":"Verdun-Le Rozelier Airfield",
     "city":"Verdun",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFGW"
     }
   },
@@ -8509,7 +8509,7 @@
     "name":"Saint-Flour-Coltines Airport",
     "city":"St.-flour",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFHQ"
     }
   },
@@ -8523,7 +8523,7 @@
     "name":"Bourg-Ceyzériat Airport",
     "city":"Bourg",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFHS"
     }
   },
@@ -8537,7 +8537,7 @@
     "name":"Villefranche-Tarare Airport",
     "city":"Vilefrance",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFHV"
     }
   },
@@ -8551,7 +8551,7 @@
     "name":"Moulins-Montbeugny Airport",
     "city":"Moulins",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFHY"
     }
   },
@@ -8565,7 +8565,7 @@
     "name":"Saint-Affrique-Belmont Airport",
     "city":"St.-afrique-belmont",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFIF"
     }
   },
@@ -8579,7 +8579,7 @@
     "name":"Cassagnes-Bégonhès Airport",
     "city":"Cassagnes-beghones",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFIG"
     }
   },
@@ -8691,7 +8691,7 @@
     "name":"Corte Airport",
     "city":"Corte",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFKT"
     }
   },
@@ -8761,7 +8761,7 @@
     "name":"Chambéry-Challes-les-Eaux Airport",
     "city":"Chambery",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFLE"
     }
   },
@@ -8775,7 +8775,7 @@
     "name":"Chalon-Champforgeuil Airport",
     "city":"Chalon",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFLH"
     }
   },
@@ -8817,7 +8817,7 @@
     "name":"Mâcon-Charnay Airport",
     "city":"Macon",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFLM"
     }
   },
@@ -8887,7 +8887,7 @@
     "name":"Montluçon-Domérat Airport",
     "city":"Montlucon",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFLT"
     }
   },
@@ -8971,7 +8971,7 @@
     "name":"Aix-en-Provence (BA 114) Airport",
     "city":"Aix-les-milles",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFMA"
     }
   },
@@ -8985,7 +8985,7 @@
     "name":"Le Luc-Le Cannet Airport",
     "city":"Le Luc",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFMC"
     }
   },
@@ -9027,7 +9027,7 @@
     "name":"Istres Le Tubé/Istres Air Base (BA 125) Airport",
     "city":"Istres",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFMI"
     }
   },
@@ -9125,7 +9125,7 @@
     "name":"Alès-Deaux Airport",
     "city":"Ales",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFMS"
     }
   },
@@ -9181,7 +9181,7 @@
     "name":"Salon-de-Provence (BA 701) Air Base",
     "city":"Salon",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFMY"
     }
   },
@@ -9195,7 +9195,7 @@
     "name":"Lézignan-Corbières Airfield",
     "city":"Lezignan-corbieres",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFMZ"
     }
   },
@@ -9223,7 +9223,7 @@
     "name":"Carpentras Airport",
     "city":"Carpentras",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFNH"
     }
   },
@@ -9237,7 +9237,7 @@
     "name":"Avord (BA 702) Air Base",
     "city":"Avord",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFOA"
     }
   },
@@ -9265,7 +9265,7 @@
     "name":"Châteaudun (BA 279) Air Base",
     "city":"Chateaudun",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFOC"
     }
   },
@@ -9279,7 +9279,7 @@
     "name":"Saumur-Saint-Florent Airport",
     "city":"Saumur",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFOD"
     }
   },
@@ -9419,7 +9419,7 @@
     "name":"Orléans-Saint-Denis-de-l'Hôtel Airport",
     "city":"Orleans",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFOZ"
     }
   },
@@ -9475,7 +9475,7 @@
     "name":"Coulommiers-Voisins Airport",
     "city":"Coulommiers",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFPK"
     }
   },
@@ -9489,7 +9489,7 @@
     "name":"Melun-Villaroche Air Base",
     "city":"Melun",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFPM"
     }
   },
@@ -9559,7 +9559,7 @@
     "name":"Reims-Prunay Airport",
     "city":"Reims",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFQA"
     }
   },
@@ -9573,7 +9573,7 @@
     "name":"Troyes-Barberey Airport",
     "city":"Troyes",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFQB"
     }
   },
@@ -9587,7 +9587,7 @@
     "name":"Lunéville-Croismare Airport",
     "city":"Luneville",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFQC"
     }
   },
@@ -9601,7 +9601,7 @@
     "name":"Étain-Rouvres Air Base",
     "city":"Etain",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFQE"
     }
   },
@@ -9615,7 +9615,7 @@
     "name":"Autun-Bellevue Airport",
     "city":"Autun",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFQF"
     }
   },
@@ -9643,7 +9643,7 @@
     "name":"Cambrai-Épinoy (BA 103) Air Base",
     "city":"Cambrai",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFQI"
     }
   },
@@ -9671,7 +9671,7 @@
     "name":"Besançon-La Vèze Airport",
     "city":"Besancon-la-veze",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFQM"
     }
   },
@@ -9685,7 +9685,7 @@
     "name":"Phalsbourg-Bourscheid Air Base",
     "city":"Phalsbourg",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFQP"
     }
   },
@@ -9741,7 +9741,7 @@
     "name":"Vesoul-Frotey Airport",
     "city":"Vesoul-frotey",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFQW"
     }
   },
@@ -9895,7 +9895,7 @@
     "name":"Lanvéoc-Poulmic Air Base",
     "city":"Lanvedoc",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFRL"
     }
   },
@@ -10049,7 +10049,7 @@
     "name":"Colmar-Meyenheim Air Base",
     "city":"Colmar",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFSC"
     }
   },
@@ -10105,7 +10105,7 @@
     "name":"Haguenau Airport",
     "city":"Haguenau",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFSH"
     }
   },
@@ -10119,7 +10119,7 @@
     "name":"Saint-Dizier-Robinson (BA 113) Air Base",
     "city":"St.-dizier",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFSI"
     }
   },
@@ -10133,7 +10133,7 @@
     "name":"Montbéliard-Courcelles Airfield",
     "city":"Montbeliard",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFSM"
     }
   },
@@ -10161,7 +10161,7 @@
     "name":"Nancy-Ochey (BA 133) Air Base",
     "city":"Nancy",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFSO"
     }
   },
@@ -10175,7 +10175,7 @@
     "name":"Pontarlier Airport",
     "city":"Pontarlier",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFSP"
     }
   },
@@ -10217,7 +10217,7 @@
     "name":"Luxeuil-Saint-Sauveur (BA 116) Air Base",
     "city":"Luxeuil",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFSX"
     }
   },
@@ -10231,7 +10231,7 @@
     "name":"Cuers-Pierrefeu Airport",
     "city":"Cuers",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFTF"
     }
   },
@@ -10273,7 +10273,7 @@
     "name":"Ambérieu Air Base (BA 278)",
     "city":"Amberieu",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFXA"
     }
   },
@@ -10287,7 +10287,7 @@
     "name":"Damblain Airport",
     "city":"Damblain",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFYD"
     }
   },
@@ -10343,7 +10343,7 @@
     "name":"Alexandria Airport",
     "city":"Alexandria",
     "country":"Greece",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LGAX"
     }
   },
@@ -10371,7 +10371,7 @@
     "name":"Elefsis Airport",
     "city":"Elefsis",
     "country":"Greece",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LGEL"
     }
   },
@@ -10483,7 +10483,7 @@
     "name":"Amigdhaleon Airport",
     "city":"Kavala",
     "country":"Greece",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LGKM"
     }
   },
@@ -10623,7 +10623,7 @@
     "name":"Megara Airport",
     "city":"Megara",
     "country":"Greece",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LGMG"
     }
   },
@@ -10679,7 +10679,7 @@
     "name":"Maritsa Airport",
     "city":"Rhodos",
     "country":"Greece",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LGRD"
     }
   },
@@ -10805,7 +10805,7 @@
     "name":"Stefanovikion Air Base",
     "city":"Stefanovikion",
     "country":"Greece",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LGSV"
     }
   },
@@ -10833,7 +10833,7 @@
     "name":"Tanagra Air Base",
     "city":"Tanagra",
     "country":"Greece",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LGTG"
     }
   },
@@ -10847,7 +10847,7 @@
     "name":"Kasteli Airport",
     "city":"Kasteli",
     "country":"Greece",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LGTL"
     }
   },
@@ -10861,7 +10861,7 @@
     "name":"Tripolis Airport",
     "city":"Tripolis",
     "country":"Greece",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LGTP"
     }
   },
@@ -10889,7 +10889,7 @@
     "name":"Tatoi Airport",
     "city":"Dekelia",
     "country":"Greece",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LGTT"
     }
   },
@@ -10945,7 +10945,7 @@
     "name":"Kecskemét Airport",
     "city":"Kecskemet",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LHKE"
     }
   },
@@ -10959,7 +10959,7 @@
     "name":"Nyíregyháza Airport",
     "city":"Nyirregyhaza",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LHNY"
     }
   },
@@ -10973,7 +10973,7 @@
     "name":"Őcsény Airport",
     "city":"Ocseny",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LHOY"
     }
   },
@@ -10987,7 +10987,7 @@
     "name":"Szentkirályszabadja Airport",
     "city":"Azentkilyszabadja",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LHSA"
     }
   },
@@ -11001,7 +11001,7 @@
     "name":"Szolnok Air Base",
     "city":"Szolnok",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LHSN"
     }
   },
@@ -11015,7 +11015,7 @@
     "name":"Amendola Air Base",
     "city":"Amendola",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIBA"
     }
   },
@@ -11127,7 +11127,7 @@
     "name":"Gioia Del Colle Air Base",
     "city":"Gioia Del Colle",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIBV"
     }
   },
@@ -11211,7 +11211,7 @@
     "name":"Palermo-Boccadifalco Airport",
     "city":"Palermo",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LICP"
     }
   },
@@ -11337,7 +11337,7 @@
     "name":"Torino-Aeritalia Airport",
     "city":"Turin",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIMA"
     }
   },
@@ -11351,7 +11351,7 @@
     "name":"Milano-Bresso Airfield",
     "city":"Milano",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIMB"
     }
   },
@@ -11449,7 +11449,7 @@
     "name":"Cameri Air Base [MIL]",
     "city":"Cameri",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIMN"
     }
   },
@@ -11477,7 +11477,7 @@
     "name":"Piacenza San Damiano Air Base",
     "city":"Piacenza",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIMS"
     }
   },
@@ -11533,7 +11533,7 @@
     "name":"Cervia Air Base",
     "city":"Cervia",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIPC"
     }
   },
@@ -11575,7 +11575,7 @@
     "name":"Rivolto Air Base",
     "city":"Rivolto",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIPI"
     }
   },
@@ -11603,7 +11603,7 @@
     "name":"Ghedi Air Base",
     "city":"Ghedi",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIPL"
     }
   },
@@ -11617,7 +11617,7 @@
     "name":"Verona-Boscomantico Airport",
     "city":"Verona",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIPN"
     }
   },
@@ -11673,7 +11673,7 @@
     "name":"Istrana Air Base",
     "city":"Treviso",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIPS"
     }
   },
@@ -11771,7 +11771,7 @@
     "name":"Pratica Di Mare Air Base",
     "city":"Pratica Di Mare",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIRE"
     }
   },
@@ -11799,7 +11799,7 @@
     "name":"Guidonia Air Base",
     "city":"Guidonia",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIRG"
     }
   },
@@ -11841,7 +11841,7 @@
     "name":"Grazzanise Air Base",
     "city":"Grazzanise",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIRM"
     }
   },
@@ -11911,7 +11911,7 @@
     "name":"Urbe Airport",
     "city":"Rome",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIRU"
     }
   },
@@ -11925,7 +11925,7 @@
     "name":"Viterbo Airport",
     "city":"Viterbo",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIRV"
     }
   },
@@ -11953,7 +11953,7 @@
     "name":"Cerklje Airport",
     "city":"Cerklje",
     "country":"Slovenia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LJCE"
     }
   },
@@ -12009,7 +12009,7 @@
     "name":"Slovenj Gradec Airport",
     "city":"Slovenj Gradec",
     "country":"Slovenia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LJSG"
     }
   },
@@ -12022,8 +12022,8 @@
     "properties": {
     "name":"České Budějovice Airport",
     "city":"Ceske Budejovice",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKCS"
     }
   },
@@ -12036,8 +12036,8 @@
     "properties": {
     "name":"Čáslav Air Base",
     "city":"Caslav",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKCV"
     }
   },
@@ -12050,8 +12050,8 @@
     "properties": {
     "name":"Hradec Králové Airport",
     "city":"Hradec Kralove",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKHK"
     }
   },
@@ -12064,8 +12064,8 @@
     "properties": {
     "name":"Hořovice Airport",
     "city":"Horovice",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKHV"
     }
   },
@@ -12078,8 +12078,8 @@
     "properties": {
     "name":"Kbely Air Base",
     "city":"Praha",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKKB"
     }
   },
@@ -12092,7 +12092,7 @@
     "properties": {
     "name":"Kunovice Airport",
     "city":"Kunovice",
-    "country":"Czech Republic",
+    "country":"Czechia",
     "IATA":"UHE",
     "ICAO":"LKKU"
     }
@@ -12106,7 +12106,7 @@
     "properties": {
     "name":"Karlovy Vary International Airport",
     "city":"Karlovy Vary",
-    "country":"Czech Republic",
+    "country":"Czechia",
     "IATA":"KLV",
     "ICAO":"LKKV"
     }
@@ -12120,8 +12120,8 @@
     "properties": {
     "name":"Plzeň-Líně Airport",
     "city":"Line",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKLN"
     }
   },
@@ -12134,8 +12134,8 @@
     "properties": {
     "name":"Mnichovo Hradiště Airport",
     "city":"Mnichovo Hradiste",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKMH"
     }
   },
@@ -12148,7 +12148,7 @@
     "properties": {
     "name":"Ostrava Leos Janáček Airport",
     "city":"Ostrava",
-    "country":"Czech Republic",
+    "country":"Czechia",
     "IATA":"OSR",
     "ICAO":"LKMT"
     }
@@ -12162,8 +12162,8 @@
     "properties": {
     "name":"Náměšť Air Base",
     "city":"Namest",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKNA"
     }
   },
@@ -12176,7 +12176,7 @@
     "properties": {
     "name":"Pardubice Airport",
     "city":"Pardubice",
-    "country":"Czech Republic",
+    "country":"Czechia",
     "IATA":"PED",
     "ICAO":"LKPD"
     }
@@ -12190,8 +12190,8 @@
     "properties": {
     "name":"Pribram Airport",
     "city":"Pribram",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKPM"
     }
   },
@@ -12204,7 +12204,7 @@
     "properties": {
     "name":"Přerov Air Base",
     "city":"Prerov",
-    "country":"Czech Republic",
+    "country":"Czechia",
     "IATA":"PRV",
     "ICAO":"LKPO"
     }
@@ -12218,7 +12218,7 @@
     "properties": {
     "name":"Václav Havel Airport Prague",
     "city":"Prague",
-    "country":"Czech Republic",
+    "country":"Czechia",
     "IATA":"PRG",
     "ICAO":"LKPR"
     }
@@ -12232,7 +12232,7 @@
     "properties": {
     "name":"Brno-Tuřany Airport",
     "city":"Brno",
-    "country":"Czech Republic",
+    "country":"Czechia",
     "IATA":"BRQ",
     "ICAO":"LKTB"
     }
@@ -12246,7 +12246,7 @@
     "properties": {
     "name":"Vodochody Airport",
     "city":"Vodochody",
-    "country":"Czech Republic",
+    "country":"Czechia",
     "IATA":"VOD",
     "ICAO":"LKVO"
     }
@@ -12275,7 +12275,7 @@
     "name":"Wiener Neustadt East Airport",
     "city":"Wiener Neustadt Ost",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOAN"
     }
   },
@@ -12289,7 +12289,7 @@
     "name":"Wels Airport",
     "city":"Wels",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOLW"
     }
   },
@@ -12373,7 +12373,7 @@
     "name":"Hinterstoisser Air Base",
     "city":"Zeltweg",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOXZ"
     }
   },
@@ -12457,7 +12457,7 @@
     "name":"Aerodromo Municipal de Coimbra",
     "city":"Coimba",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPCO"
     }
   },
@@ -12485,7 +12485,7 @@
     "name":"Coimbra Hospital Covões Heliport",
     "city":"Covilha",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPCV"
     }
   },
@@ -12499,7 +12499,7 @@
     "name":"Évora Airport",
     "city":"Evora",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPEV"
     }
   },
@@ -12597,7 +12597,7 @@
     "name":"Montijo Air Base",
     "city":"Montijo",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPMT"
     }
   },
@@ -12611,7 +12611,7 @@
     "name":"Ovar Air Base",
     "city":"Ovar",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPOV"
     }
   },
@@ -12723,7 +12723,7 @@
     "name":"Sintra Air Base",
     "city":"Sintra",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPST"
     }
   },
@@ -12737,7 +12737,7 @@
     "name":"Tancos Airbase",
     "city":"Tancos",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPTN"
     }
   },
@@ -12889,7 +12889,7 @@
     },
     "properties": {
     "name":"Caransebeş Airport",
-    "city":"Caransebes",
+    "city":"Caransebeş",
     "country":"Romania",
     "IATA":"CSB",
     "ICAO":"LRCS"
@@ -12917,7 +12917,7 @@
     },
     "properties": {
     "name":"Iaşi Airport",
-    "city":"Iasi",
+    "city":"Iaşi",
     "country":"Romania",
     "IATA":"IAS",
     "ICAO":"LRIA"
@@ -13015,7 +13015,7 @@
     },
     "properties": {
     "name":"Transilvania Târgu Mureş International Airport",
-    "city":"Tirgu Mures",
+    "city":"Târgu Mureș",
     "country":"Romania",
     "IATA":"TGM",
     "ICAO":"LRTM"
@@ -13029,7 +13029,7 @@
     },
     "properties": {
     "name":"Timişoara Traian Vuia Airport",
-    "city":"Timisoara",
+    "city":"Timişoara",
     "country":"Romania",
     "IATA":"TSR",
     "ICAO":"LRTR"
@@ -13045,7 +13045,7 @@
     "name":"Les Eplatures Airport",
     "city":"Les Eplatures",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSGC"
     }
   },
@@ -13073,7 +13073,7 @@
     "name":"Saanen Airport",
     "city":"Saanen",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSGK"
     }
   },
@@ -13101,7 +13101,7 @@
     "name":"Alpnach Air Base",
     "city":"Alpnach",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSMA"
     }
   },
@@ -13115,7 +13115,7 @@
     "name":"Dübendorf Air Base",
     "city":"Dubendorf",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSMD"
     }
   },
@@ -13143,7 +13143,7 @@
     "name":"Mollis Airport",
     "city":"Mollis",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSMF"
     }
   },
@@ -13157,7 +13157,7 @@
     "name":"Meiringen Airport",
     "city":"Meiringen",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSMM"
     }
   },
@@ -13171,7 +13171,7 @@
     "name":"Payerne Air Base",
     "city":"Payerne",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSMP"
     }
   },
@@ -13269,7 +13269,7 @@
     "name":"Güvercinlik Airport",
     "city":"Ankara",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTAB"
     }
   },
@@ -13311,7 +13311,7 @@
     "name":"Akıncı Air Base",
     "city":"Ankara",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTAE"
     }
   },
@@ -13395,7 +13395,7 @@
     "name":"İskenderun Airport",
     "city":"Iskenderun",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTAK"
     }
   },
@@ -13423,7 +13423,7 @@
     "name":"Malatya Tulga Airport",
     "city":"Malatya",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTAO"
     }
   },
@@ -13493,7 +13493,7 @@
     "name":"Sivrihisar Airport",
     "city":"Sivrihisar",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTAV"
     }
   },
@@ -13547,7 +13547,7 @@
     },
     "properties": {
     "name":"Balıkesir Merkez Airport",
-    "city":"Balikesir",
+    "city":"Balıkesir",
     "country":"Türkiye",
     "IATA":"BZI",
     "ICAO":"LTBF"
@@ -13561,7 +13561,7 @@
     },
     "properties": {
     "name":"Bandırma Airport",
-    "city":"Bandirma",
+    "city":"Bandırma",
     "country":"Türkiye",
     "IATA":"BDM",
     "ICAO":"LTBG"
@@ -13575,7 +13575,7 @@
     },
     "properties": {
     "name":"Eskişehir Air Base",
-    "city":"Eskisehir",
+    "city":"Eskişehir",
     "country":"Türkiye",
     "IATA":"ESK",
     "ICAO":"LTBI"
@@ -13589,7 +13589,7 @@
     },
     "properties": {
     "name":"Adnan Menderes International Airport",
-    "city":"Izmir",
+    "city":"İzmir",
     "country":"Türkiye",
     "IATA":"ADB",
     "ICAO":"LTBJ"
@@ -13603,9 +13603,9 @@
     },
     "properties": {
     "name":"Gaziemir Airport",
-    "city":"Izmir",
+    "city":"İzmir",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTBK"
     }
   },
@@ -13617,7 +13617,7 @@
     },
     "properties": {
     "name":"Çiğli Airport",
-    "city":"Izmir",
+    "city":"İzmir",
     "country":"Türkiye",
     "IATA":"IGL",
     "ICAO":"LTBL"
@@ -13633,7 +13633,7 @@
     "name":"Isparta Airport",
     "city":"Isparta",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTBM"
     }
   },
@@ -13647,7 +13647,7 @@
     "name":"Kütahya Airport",
     "city":"Kutahya",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTBN"
     }
   },
@@ -13661,7 +13661,7 @@
     "name":"Yalova Airport",
     "city":"Yalova",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTBP"
     }
   },
@@ -13703,7 +13703,7 @@
     "name":"Akhisar Airport",
     "city":"Akhisar",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTBT"
     }
   },
@@ -13731,7 +13731,7 @@
     "name":"Samandıra Air Base",
     "city":"Istanbul",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTBX"
     }
   },
@@ -13743,7 +13743,7 @@
     },
     "properties": {
     "name":"Elazığ Airport",
-    "city":"Elazig",
+    "city":"Elazığ",
     "country":"Türkiye",
     "IATA":"EZS",
     "ICAO":"LTCA"
@@ -13855,9 +13855,9 @@
     },
     "properties": {
     "name":"Kaklıç Airport",
-    "city":"Izmir",
+    "city":"İzmir",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTFA"
     }
   },
@@ -13869,9 +13869,9 @@
     },
     "properties": {
     "name":"Selçuk Efes Airport",
-    "city":"Izmir",
+    "city":"İzmir",
     "country":"Türkiye",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LTFB"
     }
   },
@@ -13897,7 +13897,7 @@
     },
     "properties": {
     "name":"Chişinău International Airport",
-    "city":"Chisinau",
+    "city":"Chişinău",
     "country":"Moldova",
     "IATA":"KIV",
     "ICAO":"LUKK"
@@ -13912,7 +13912,7 @@
     "properties": {
     "name":"Ohrid St. Paul the Apostle Airport",
     "city":"Ohrid",
-    "country":"Macedonia",
+    "country":"North Macedonia",
     "IATA":"OHD",
     "ICAO":"LWOH"
     }
@@ -13926,7 +13926,7 @@
     "properties": {
     "name":"Skopje Alexander the Great Airport",
     "city":"Skopje",
-    "country":"Macedonia",
+    "country":"North Macedonia",
     "IATA":"SKP",
     "ICAO":"LWSK"
     }
@@ -14011,7 +14011,7 @@
     "name":"Vršac International Airport",
     "city":"Vrsac",
     "country":"Serbia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LYVR"
     }
   },
@@ -14053,7 +14053,7 @@
     "name":"Kuchyňa Air Base",
     "city":"Malacky",
     "country":"Slovakia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LZMC"
     }
   },
@@ -14095,7 +14095,7 @@
     "name":"Trenčín Airport",
     "city":"Trencin",
     "country":"Slovakia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LZTN"
     }
   },
@@ -14135,7 +14135,7 @@
     },
     "properties": {
     "name":"Boryspil International Airport",
-    "city":"Kiev",
+    "city":"Kyiv",
     "country":"Ukraine",
     "IATA":"KBP",
     "ICAO":"UKBB"
@@ -14162,8 +14162,8 @@
        "coordinates":  [ 35.10060119628906,48.357200622558594,481 ]
     },
     "properties": {
-    "name":"Dnipropetrovsk International Airport",
-    "city":"Dnepropetrovsk",
+    "name":"Dnipro International Airport",
+    "city":"Dnipro",
     "country":"Ukraine",
     "IATA":"DNK",
     "ICAO":"UKDD"
@@ -14190,8 +14190,8 @@
        "coordinates":  [ 30.45194,50.40194,587 ]
     },
     "properties": {
-    "name":"Kiev Zhuliany International Airport",
-    "city":"Kiev",
+    "name":"Igor Sikorsky Kyiv International Airport",
+    "city":"Kyiv",
     "country":"Ukraine",
     "IATA":"IEV",
     "ICAO":"UKKK"
@@ -14697,7 +14697,7 @@
     "name":"S. Darius and S. Girėnas Airfield",
     "city":"Kaunas",
     "country":"Lithuania",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EYKS"
     }
   },
@@ -14753,7 +14753,7 @@
     "name":"Erebuni Airport",
     "city":"Yerevan",
     "country":"Armenia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UDYE"
     }
   },
@@ -14767,7 +14767,7 @@
     "name":"Stepanavan Airport",
     "city":"Stepanavan",
     "country":"Armenia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UDLS"
     }
   },
@@ -14863,7 +14863,7 @@
     },
     "properties": {
     "name":"Nevşehir Kapadokya Airport",
-    "city":"Nevsehir",
+    "city":"Nevşehir",
     "country":"Türkiye",
     "IATA":"NAV",
     "ICAO":"LTAZ"
@@ -14933,9 +14933,9 @@
     },
     "properties": {
     "name":"Samsø Airport",
-    "city":"Samsoe",
+    "city":"Samsø",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKSS"
     }
   },
@@ -15173,7 +15173,7 @@
     "name":"Enghien Moisselles Airfield",
     "city":"Enghien-moisselles",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFFE"
     }
   },
@@ -15229,7 +15229,7 @@
     "name":"Bakki Airport",
     "city":"Bakki",
     "country":"Iceland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"BIBA"
     }
   },
@@ -15311,7 +15311,7 @@
     },
     "properties": {
     "name":"Ørsta-Volda Airport, Hovden",
-    "city":"Orsta-Volda",
+    "city":"Ørsta-Volda",
     "country":"Norway",
     "IATA":"HOV",
     "ICAO":"ENOV"
@@ -15845,7 +15845,7 @@
     "name":"Weston Airport",
     "city":"Leixlip",
     "country":"Ireland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EIWT"
     }
   },
@@ -15983,7 +15983,7 @@
     },
     "properties": {
     "name":"Sørkjosen Airport",
-    "city":"Sorkjosen",
+    "city":"Sørkjosen",
     "country":"Norway",
     "IATA":"SOJ",
     "ICAO":"ENSR"
@@ -16293,7 +16293,7 @@
     "name":"Győr-Pér International Airport",
     "city":"Győr",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LHPR"
     }
   },
@@ -16375,7 +16375,7 @@
     },
     "properties": {
     "name":"Uşak Airport",
-    "city":"Usak",
+    "city":"Uşak",
     "country":"Türkiye",
     "IATA":"USQ",
     "ICAO":"LTBO"
@@ -16403,7 +16403,7 @@
     },
     "properties": {
     "name":"Şanlıurfa Airport",
-    "city":"Sanliurfa",
+    "city":"Şanlıurfa",
     "country":"Türkiye",
     "IATA":"SFQ",
     "ICAO":"LTCH"
@@ -16417,7 +16417,7 @@
     },
     "properties": {
     "name":"Kahramanmaraş Airport",
-    "city":"Kahramanmaras",
+    "city":"Kahramanmaraş",
     "country":"Türkiye",
     "IATA":"KCM",
     "ICAO":"LTCN"
@@ -16431,7 +16431,7 @@
     },
     "properties": {
     "name":"Ağrı Airport",
-    "city":"Agri",
+    "city":"Ağrı",
     "country":"Türkiye",
     "IATA":"AJI",
     "ICAO":"LTCO"
@@ -16473,7 +16473,7 @@
     },
     "properties": {
     "name":"Balıkesir Körfez Airport",
-    "city":"Balikesir Korfez",
+    "city":"Balıkesir Korfez",
     "country":"Türkiye",
     "IATA":"EDO",
     "ICAO":"LTFD"
@@ -16599,7 +16599,7 @@
     },
     "properties": {
     "name":"Kharkiv International Airport",
-    "city":"Kharkov",
+    "city":"Kharkiv",
     "country":"Ukraine",
     "IATA":"HRK",
     "ICAO":"UKHH"
@@ -16769,7 +16769,7 @@
     "name":"Khankala Air Base",
     "city":"Grozny",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"URMG"
     }
   },
@@ -16993,7 +16993,7 @@
    "name":"Adamovka",
    "city":"Adamovka",
    "country":"Russia",
-   "IATA":"\\N",
+   "IATA":"N/A",
    "ICAO":"UWOD"
    }
   },
@@ -17007,7 +17007,7 @@
    "name":"Kvarkeno",
    "city":"Kvarkeno",
    "country":"Russia",
-   "IATA":"\\N",
+   "IATA":"N/A",
    "ICAO":"UWOH"
    }
   },
@@ -17105,7 +17105,7 @@
     "name":"Szczecin-Dąbie Airport",
     "city":"Szczecin",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPSD"
     }
   },
@@ -17119,7 +17119,7 @@
     "name":"Tannheim Airfield",
     "city":"Tannheim",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDMT"
     }
   },
@@ -17203,7 +17203,7 @@
     "name":"La Côte Airport",
     "city":"Prangins",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSGP"
     }
   },
@@ -17231,7 +17231,7 @@
     "name":"Isle of Wight / Sandown Airport",
     "city":"Isle Of Wight",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGHN"
     }
   },
@@ -17245,7 +17245,7 @@
     "name":"Andernos Les Bains Airport",
     "city":"Andernos-Les-Bains",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFCD"
     }
   },
@@ -17259,7 +17259,7 @@
     "name":"Bienenfarm Airport",
     "city":"Nauen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDOI"
     }
   },
@@ -17287,7 +17287,7 @@
     "name":"Yverdon-les-Bains Airport",
     "city":"Yverdon-Les-Bains",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSGY"
     }
   },
@@ -17301,7 +17301,7 @@
     "name":"Bielsko Biala Airport",
     "city":"Bielsko-Biala",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPBA"
     }
   },
@@ -17315,7 +17315,7 @@
     "name":"Niederoeblarn Airport",
     "city":"Niederoeblarn",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOGO"
     }
   },
@@ -17329,7 +17329,7 @@
     "name":"Vöslau Airport",
     "city":"Bad Voeslau",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOAV"
     }
   },
@@ -17343,7 +17343,7 @@
     "name":"Uetersen/Heist Airport",
     "city":"Uetersen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDHE"
     }
   },
@@ -17453,7 +17453,7 @@
     },
     "properties": {
     "name":"Muş Airport",
-    "city":"Mus",
+    "city":"Muş",
     "country":"Türkiye",
     "IATA":"MSR",
     "ICAO":"LTCK"
@@ -17495,7 +17495,7 @@
     },
     "properties": {
     "name":"Bursa Yenişehir Airport",
-    "city":"Yenisehir",
+    "city":"Yenişehir",
     "country":"Türkiye",
     "IATA":"YEI",
     "ICAO":"LTBR"
@@ -17525,7 +17525,7 @@
     "name":"Weser-Wümme Airport",
     "city":"Hellwege",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDWM"
     }
   },
@@ -17539,7 +17539,7 @@
     "name":"Krems Airport",
     "city":"Krems",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOAG"
     }
   },
@@ -17553,7 +17553,7 @@
     "name":"Raron Airport",
     "city":"Raron",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSTA"
     }
   },
@@ -17567,7 +17567,7 @@
     "name":"Borovaya Airfield",
     "city":"Minsk",
     "country":"Belarus",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UMMB"
     }
   },
@@ -17581,7 +17581,7 @@
     "name":"Amlikon Glider Airport",
     "city":"Amlikon",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSPA"
     }
   },
@@ -17595,7 +17595,7 @@
     "name":"Lommis Airfield",
     "city":"Lommis",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSZT"
     }
   },
@@ -17609,7 +17609,7 @@
     "name":"Flugplatz Finsterwalde/Heinrichsruh",
     "city":"Finsterwalde",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAS"
     }
   },
@@ -17623,7 +17623,7 @@
     "name":"Dinslaken/Schwarze Heide Airport",
     "city":"Dinslaken",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDLD"
     }
   },
@@ -17637,7 +17637,7 @@
     "name":"Höxter-Holzminden Airport",
     "city":"Hoexter Holzminden",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDVI"
     }
   },
@@ -17651,7 +17651,7 @@
     "name":"Kalundborg Airport",
     "city":"Kalundborg",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKKL"
     }
   },
@@ -17664,8 +17664,8 @@
     "properties": {
     "name":"Sazená Airport",
     "city":"Sazena",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKSZ"
     }
   },
@@ -17677,7 +17677,7 @@
     },
     "properties": {
     "name":"Reykjahlíð Airport",
-    "city":"Myvatn",
+    "city":"Mývatn",
     "country":"Iceland",
     "IATA":"MVA",
     "ICAO":"BIRL"
@@ -17735,7 +17735,7 @@
     "name":"Zell Am See Airport",
     "city":"Zell am See",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOWZ"
     }
   },
@@ -17777,7 +17777,7 @@
     "name":"Ternopil International Airport",
     "city":"Ternopol",
     "country":"Ukraine",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UKLT"
     }
   },
@@ -17805,7 +17805,7 @@
     "name":"Harle Airport",
     "city":"Harlesiel",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDXP"
     }
   },
@@ -17833,7 +17833,7 @@
     "name":"Triengen Airport",
     "city":"Triengen",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSPN"
     }
   },
@@ -17861,7 +17861,7 @@
     "name":"Speck-Fehraltorf Airport",
     "city":"Fehraltorf",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSZK"
     }
   },
@@ -17973,7 +17973,7 @@
     "name":"Jan Mayensfield",
     "city":"Jan Mayen",
     "country":"Norway",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ENJA"
     }
   },
@@ -18001,7 +18001,7 @@
     "name":"Volkel Air Base",
     "city":"Volkel",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHVK"
     }
   },
@@ -18029,7 +18029,7 @@
     "name":"Biel-Kappelen Airport",
     "city":"Biel",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSZP"
     }
   },
@@ -18055,7 +18055,7 @@
     },
     "properties": {
     "name":"Mykolaiv International Airport",
-    "city":"Nikolayev",
+    "city":"Mykolaiv",
     "country":"Ukraine",
     "IATA":"NLV",
     "ICAO":"UKON"
@@ -18085,7 +18085,7 @@
     "name":"Birrfeld Airport",
     "city":"Birrfeld",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSZF"
     }
   },
@@ -18127,7 +18127,7 @@
     "name":"Pápa Air Base",
     "city":"Papa",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LHPA"
     }
   },
@@ -18141,7 +18141,7 @@
     "name":"Nabern/Teck Airport",
     "city":"Kirchheim-Teck",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDTN"
     }
   },
@@ -18155,7 +18155,7 @@
     "name":"Ecuvillens Airport",
     "city":"Ecuvillens",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSGE"
     }
   },
@@ -18183,7 +18183,7 @@
     "name":"Kihnu Airfield",
     "city":"Kihnu",
     "country":"Estonia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EEKU"
     }
   },
@@ -18197,7 +18197,7 @@
     "name":"Ruhnu Airfield",
     "city":"Ruhnu",
     "country":"Estonia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EERU"
     }
   },
@@ -18225,7 +18225,7 @@
     "name":"Ouessant Airport",
     "city":"Ouessant",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFEC"
     }
   },
@@ -18251,7 +18251,7 @@
     },
     "properties": {
     "name":"Gjögur Airport",
-    "city":"Gjogur",
+    "city":"Gjögur",
     "country":"Iceland",
     "IATA":"GJR",
     "ICAO":"BIGJ"
@@ -18265,7 +18265,7 @@
     },
     "properties": {
     "name":"Sauðárkrókur Airport",
-    "city":"Saudarkrokur",
+    "city":"Sauðárkrókur",
     "country":"Iceland",
     "IATA":"SAK",
     "ICAO":"BIKR"
@@ -18281,7 +18281,7 @@
     "name":"Selfoss Airport",
     "city":"Selfoss",
     "country":"Iceland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"BISF"
     }
   },
@@ -18379,7 +18379,7 @@
     "name":"Tresco Heliport",
     "city":"Tresco",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGHT"
     }
   },
@@ -18393,7 +18393,7 @@
     "name":"Stepanakert Air Base",
     "city":"Stepanakert",
     "country":"Azerbaijan",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UB13"
     }
   },
@@ -18421,7 +18421,7 @@
     "name":"Würzburg-Schenkenturm Airport",
     "city":"Wuerzburg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDFW"
     }
   },
@@ -18435,7 +18435,7 @@
     "name":"São Jacinto Airport",
     "city":"Aveiro",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPAV"
     }
   },
@@ -18449,7 +18449,7 @@
     "name":"Hopsten Air Base",
     "city":"Hopsten",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ETNP"
     }
   },
@@ -18463,7 +18463,7 @@
     "name":"Dyagilevo Air Base",
     "city":"Kostroma",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UUBD"
     }
   },
@@ -18477,7 +18477,7 @@
     "name":"Wangen-Lachen Airport",
     "city":"Wangen-Lachen",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSPV"
     }
   },
@@ -18491,7 +18491,7 @@
     "name":"Courtelary Airport",
     "city":"Courtelary ",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSZJ"
     }
   },
@@ -18505,7 +18505,7 @@
     "name":"Lotnisko Korne",
     "city":"Koszalin",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPKO"
     }
   },
@@ -18533,7 +18533,7 @@
     "name":"Mezen Airport",
     "city":"Mezen",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULAE"
     }
   },
@@ -18547,7 +18547,7 @@
     "name":"Vaskovo Airport",
     "city":"Arkhangelsk",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULAH"
     }
   },
@@ -18561,7 +18561,7 @@
     "name":"Brumowski  Air Base",
     "city":"Tulln",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOXT"
     }
   },
@@ -18575,7 +18575,7 @@
     "name":"London Heliport",
     "city":"London",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGLW"
     }
   },
@@ -18589,7 +18589,7 @@
     "name":"Venice-Lido Airport",
     "city":"Venice",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIPV"
     }
   },
@@ -18603,7 +18603,7 @@
     "name":"Tallinn Linnahall Heliport",
     "city":"Tallinn",
     "country":"Estonia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EECL"
     }
   },
@@ -18617,7 +18617,7 @@
     "name":"Hernesaari Heliport",
     "city":"Helsinki",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFHE"
     }
   },
@@ -18631,7 +18631,7 @@
     "name":"Linkenheim Airport",
     "city":"Linkenheim",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDRI"
     }
   },
@@ -18645,7 +18645,7 @@
     "name":"Hilversum Airfield",
     "city":"Hilversum",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHHV"
     }
   },
@@ -18659,7 +18659,7 @@
     "name":"Texel Airfield",
     "city":"Texel",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHTX"
     }
   },
@@ -18673,7 +18673,7 @@
     "name":"La Cerdanya Airport",
     "city":"Das i Fontanals de Cerdanya",
     "country":"Spain",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LECD"
     }
   },
@@ -18687,7 +18687,7 @@
     "name":"Stary Oskol Airport",
     "city":"Stary Oskol",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UUOS"
     }
   },
@@ -18715,7 +18715,7 @@
     "name":"White Waltham Airfield",
     "city":"Maidenhead",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGLM"
     }
   },
@@ -18729,7 +18729,7 @@
     "name":"Engels heliport",
     "city":"Ebenhofen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBEN"
     }
   },
@@ -18743,7 +18743,7 @@
     "name":"Skå-Edeby Airport",
     "city":"Essen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESSE"
     }
   },
@@ -18785,7 +18785,7 @@
     "name":"Westkapelle heliport",
     "city":"Knokke",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBKW"
     }
   },
@@ -18813,7 +18813,7 @@
     "name":"Malbork Military Air Base",
     "city":"Malbork",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPMB"
     }
   },
@@ -18827,7 +18827,7 @@
     "name":"Lask Military Air Base",
     "city":"Lask",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPLK"
     }
   },
@@ -18841,7 +18841,7 @@
     "name":"Miroslawiec Military Air Base",
     "city":"Miroslawiec",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPMI"
     }
   },
@@ -18855,7 +18855,7 @@
     "name":"Krzesiny Military Air Base",
     "city":"Poznan",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPKS"
     }
   },
@@ -18883,7 +18883,7 @@
     "name":"Hoogeveen Airfield",
     "city":"Hoogeveen",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHHO"
     }
   },
@@ -18897,7 +18897,7 @@
     "name":"Teuge Airport",
     "city":"Deventer",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHTE"
     }
   },
@@ -18911,7 +18911,7 @@
     "name":"Midden-Zeeland Airport",
     "city":"Middelburg",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHMZ"
     }
   },
@@ -18925,7 +18925,7 @@
     "name":"Ameland Airfield",
     "city":"Ameland",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHAL"
     }
   },
@@ -18939,7 +18939,7 @@
     "name":"Saint-Cyr-l'École Airport",
     "city":"Saint-Cyr",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFPZ"
     }
   },
@@ -18950,8 +18950,8 @@
        "coordinates":  [ 32.28499984741211,48.54280090332031,568 ]
     },
     "properties": {
-    "name":"Kirovograd Airport",
-    "city":"Kirovograd",
+    "name":"Kropyvnytskyi Airport",
+    "city":"Kropyvnytskyi",
     "country":"Ukraine",
     "IATA":"KGO",
     "ICAO":"UKKG"
@@ -18967,7 +18967,7 @@
     "name":"Roitzschjora Airfield",
     "city":"Roitzschjora",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAW"
     }
   },
@@ -19009,7 +19009,7 @@
     "name":"De Peel Air Base",
     "city":"Deurne",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHDP"
     }
   },
@@ -19037,7 +19037,7 @@
     "name":"Ringebu Airfield Frya",
     "city":"Frya",
     "country":"Norway",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ENRI"
     }
   },
@@ -19051,7 +19051,7 @@
     "name":"Strasbourg Neuhof Airfield",
     "city":"Strasbourg Neudorf",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFGC"
     }
   },
@@ -19065,7 +19065,7 @@
     "name":"Nannhausen Airport",
     "city":"Nannhausen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDRN"
     }
   },
@@ -19079,7 +19079,7 @@
     "name":"Marl-Loemühle Airfield",
     "city":"Recklinghausen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDLM"
     }
   },
@@ -19093,7 +19093,7 @@
     "name":"Färila Air Base",
     "city":"Farila",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESNF"
     }
   },
@@ -19121,7 +19121,7 @@
     "name":"Regensburg-Oberhub Airport",
     "city":"Regensburg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDNR"
     }
   },
@@ -19148,8 +19148,8 @@
     "properties": {
     "name":"Benešov Airport",
     "city":"Benesov",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKBE"
     }
   },
@@ -19175,7 +19175,7 @@
     },
     "properties": {
     "name":"Gostomel Airport",
-    "city":"Kiev",
+    "city":"Kyiv",
     "country":"Ukraine",
     "IATA":"GML",
     "ICAO":"UKKM"
@@ -19191,7 +19191,7 @@
     "name":"Landshut Airport",
     "city":"Landshut",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDML"
     }
   },
@@ -19205,7 +19205,7 @@
     "name":"Itzehoe/Hungriger Wolf Airport",
     "city":"Itzehoe",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDHF"
     }
   },
@@ -19233,7 +19233,7 @@
     "name":"Allstedt Airport",
     "city":"Allstedt",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDBT"
     }
   },
@@ -19247,7 +19247,7 @@
     "name":"Peine-Eddesse Airport",
     "city":"Peine",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDVP"
     }
   },
@@ -19261,7 +19261,7 @@
     "name":"Spremberg-Welzow Airport",
     "city":"Welzow",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDCY"
     }
   },
@@ -19303,7 +19303,7 @@
     "name":"Rotenburg (Wümme) Airport",
     "city":"Rotenburg Wuemme",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDXQ"
     }
   },
@@ -19317,7 +19317,7 @@
     "name":"Wipperfürth-Neye Airport",
     "city":"Wipperfuerth",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDKN"
     }
   },
@@ -19331,7 +19331,7 @@
     "name":"Osnabrück-Atterheide Airport",
     "city":"Osnabrueck",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDWO"
     }
   },
@@ -19345,7 +19345,7 @@
     "name":"Flugplatz Ballenstedt",
     "city":"Ballenstedt",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDCB"
     }
   },
@@ -19359,7 +19359,7 @@
     "name":"Flugplatz Hartenholm",
     "city":"Hasenmoor",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDHM"
     }
   },
@@ -19373,7 +19373,7 @@
     "name":"Ganderkesee Atlas Airfield",
     "city":"Ganderkesee",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDWQ"
     }
   },
@@ -19387,7 +19387,7 @@
     "name":"Nienburg-Holzbalge Airport",
     "city":"Nienburg Weser",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDXI"
     }
   },
@@ -19401,7 +19401,7 @@
     "name":"Damme Airfield",
     "city":"Damme",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDWC"
     }
   },
@@ -19415,7 +19415,7 @@
     "name":"Borkenberge Airport",
     "city":"Duelmen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDLB"
     }
   },
@@ -19429,7 +19429,7 @@
     "name":"Obermehler-Schlotheim Airport",
     "city":"Obermehler",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDCO"
     }
   },
@@ -19443,7 +19443,7 @@
     "name":"Hodenhagen Airport",
     "city":"Hodenhagen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDVH"
     }
   },
@@ -19457,7 +19457,7 @@
     "name":"Grube Airport",
     "city":"Grube",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDHB"
     }
   },
@@ -19469,9 +19469,9 @@
     },
     "properties": {
     "name":"Tønder Airport",
-    "city":"Toender",
+    "city":"Tønder",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKTD"
     }
   },
@@ -19485,7 +19485,7 @@
     "name":"Celle-Arloh Airport",
     "city":"Celle",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDVC"
     }
   },
@@ -19499,7 +19499,7 @@
     "name":"Uelzen Airport",
     "city":"Uelzen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDVU"
     }
   },
@@ -19513,7 +19513,7 @@
     "name":"Hamm-Lippewiesen Airport",
     "city":"Hamm",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDLH"
     }
   },
@@ -19527,7 +19527,7 @@
     "name":"Lüsse Airport",
     "city":"Luesse",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDOJ"
     }
   },
@@ -19541,7 +19541,7 @@
     "name":"Porta Westfalica Airport",
     "city":"Bad Oeynhausen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDVY"
     }
   },
@@ -19555,7 +19555,7 @@
     "name":"Brilon/Hochsauerlandkreis Airfield",
     "city":"Brilon",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDKO"
     }
   },
@@ -19569,7 +19569,7 @@
     "name":"Hameln-Pyrmont Airport",
     "city":"Bad Pyrmont",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDVW"
     }
   },
@@ -19583,7 +19583,7 @@
     "name":"Nordholz-Spieka Airfield",
     "city":"Cuxhaven",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDXN"
     }
   },
@@ -19611,7 +19611,7 @@
     "name":"St. Michaelisdonn Airport",
     "city":"Sankt Michaelisdonn",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDXM"
     }
   },
@@ -19625,7 +19625,7 @@
     "name":"Salzgitter-Drütte Airport",
     "city":"Salzgitter",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDVS"
     }
   },
@@ -19639,7 +19639,7 @@
     "name":"Karlshöfen Airport",
     "city":"Karlshoefen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDWK"
     }
   },
@@ -19653,7 +19653,7 @@
     "name":"Oldenburg-Hatten Airfield",
     "city":"Oldenburg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDWH"
     }
   },
@@ -19667,7 +19667,7 @@
     "name":"Rinteln Airport",
     "city":"Rinteln",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDVR"
     }
   },
@@ -19681,7 +19681,7 @@
     "name":"Münster-Telgte Airport",
     "city":"Muenster",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDLT"
     }
   },
@@ -19709,7 +19709,7 @@
     "name":"Lüchow-Rehbeck Airport",
     "city":"Luechow",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDHC"
     }
   },
@@ -19723,7 +19723,7 @@
     "name":"Klietz/Scharlibbe Airport",
     "city":"Scharlibbe",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDCL"
     }
   },
@@ -19737,7 +19737,7 @@
     "name":"Burg Airport",
     "city":"Burg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDBG"
     }
   },
@@ -19751,7 +19751,7 @@
     "name":"Bad Neuenahr-Ahrweiler Airfield",
     "city":"Bad Neuenahr",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDRA"
     }
   },
@@ -19765,7 +19765,7 @@
     "name":"Bad Dürkheim Airport",
     "city":"Bad Duerkheim",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDRF"
     }
   },
@@ -19779,7 +19779,7 @@
     "name":"Leverkusen Airport",
     "city":"Leverkusen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDKL"
     }
   },
@@ -19793,7 +19793,7 @@
     "name":"Wershofen/Eifel Airfield",
     "city":"Wershofen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDRV"
     }
   },
@@ -19807,7 +19807,7 @@
     "name":"Bolshoye Gryzlovo Airfield",
     "city":"Stupino",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UUDG"
     }
   },
@@ -19821,7 +19821,7 @@
     "name":"Seppe Airfield",
     "city":"Bosschenhoofd",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHSE"
     }
   },
@@ -19835,7 +19835,7 @@
     "name":"St Stephan Airport",
     "city":"St.Stephan",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSTS"
     }
   },
@@ -19849,7 +19849,7 @@
     "name":"IAR Gimbav Heliport",
     "city":"Brasov",
     "country":"Romania",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LRBG"
     }
   },
@@ -19863,7 +19863,7 @@
     "name":"Como (Idroscalo - Water Ad) Hidroport",
     "city":"Como",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LILY"
     }
   },
@@ -19905,7 +19905,7 @@
     "name":"Compton Abbas Aerodrome",
     "city":"Shaftesbury",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGHA"
     }
   },
@@ -19933,7 +19933,7 @@
     "name":"Glasgow City Heliport",
     "city":"Glasgow",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGEG"
     }
   },
@@ -19961,7 +19961,7 @@
     "name":"Gera-Leumnitz Airfield",
     "city":"Gera",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAJ"
     }
   },
@@ -19975,7 +19975,7 @@
     "name":"Kasimovo Airfield",
     "city":"Saint-Petersburg",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"XLLN"
     }
   },
@@ -19989,7 +19989,7 @@
     "name":"Terlet Glider Field",
     "city":"Arnhem",
     "country":"Netherlands",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EHTL"
     }
   },
@@ -20003,7 +20003,7 @@
     "name":"Oerlinghausen Airport",
     "city":"TELGTE",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDLO"
     }
   },
@@ -20017,7 +20017,7 @@
     "name":"Balzers Heliport",
     "city":"Balzers",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSXB"
     }
   },
@@ -20031,7 +20031,7 @@
     "name":"Flugplatz Punitz",
     "city":"Punitz-Guessing",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOGG"
     }
   },
@@ -20073,7 +20073,7 @@
     "name":"Fuerstenwalde Airport",
     "city":"Furstenwalde",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAL"
     }
   },
@@ -20087,7 +20087,7 @@
     "name":"Eberswalde-Finow Airport",
     "city":"Eberswalde",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAV"
     }
   },
@@ -20101,7 +20101,7 @@
     "name":"Saarmund Airport",
     "city":"Saarmund",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDCS"
     }
   },
@@ -20115,7 +20115,7 @@
     "name":"Pont Sur Yonne Airfield",
     "city":"Pont Sur Yonne",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFGO"
     }
   },
@@ -20129,7 +20129,7 @@
     "name":"St Florentin Cheu Airfield",
     "city":"St Florentin Cheu",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFGP"
     }
   },
@@ -20143,7 +20143,7 @@
     "name":"Saulieu Liernais Airfield",
     "city":"Saulieu",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFEW"
     }
   },
@@ -20157,7 +20157,7 @@
     "name":"Olten Airport",
     "city":"Olten",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSPO"
     }
   },
@@ -20185,7 +20185,7 @@
     "name":"Ambri Airport",
     "city":"Quinto",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSPM"
     }
   },
@@ -20199,7 +20199,7 @@
     "name":"Lodrino Air Base",
     "city":"Lodrino",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSML"
     }
   },
@@ -20212,8 +20212,8 @@
     "properties": {
     "name":"Roudnice Airport",
     "city":"Roudnice nad Lebem",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKRO"
     }
   },
@@ -20226,8 +20226,8 @@
     "properties": {
     "name":"Usti Nad Labem Airfield",
     "city":"Usti Nad Labem",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKUL"
     }
   },
@@ -20241,7 +20241,7 @@
     "name":"Mauterndorf Airport",
     "city":"Mauterndorf",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOSM"
     }
   },
@@ -20255,7 +20255,7 @@
     "name":"Nötsch Im Gailtal Airport",
     "city":"Notsch Im Gailtal",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOKN"
     }
   },
@@ -20269,7 +20269,7 @@
     "name":"Sinsheim Airfield",
     "city":"Karlsruhe",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDTK"
     }
   },
@@ -20283,7 +20283,7 @@
     "name":"Weinheim/Bergstraße Airport",
     "city":"Weinheim",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDGZ"
     }
   },
@@ -20297,7 +20297,7 @@
     "name":"Meaux Esbly Airport",
     "city":"Meaux",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFPE"
     }
   },
@@ -20311,7 +20311,7 @@
     "name":"Château-Thierry - Belleau Airfield",
     "city":"Chateau-Thierry",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFFH"
     }
   },
@@ -20325,7 +20325,7 @@
     "name":"Inowroclaw Military Air Base",
     "city":"Inowroclaw",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPIR"
     }
   },
@@ -20339,7 +20339,7 @@
     "name":"Pruszcz Gdanski Air Base",
     "city":"Pruszcz Gdansk",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPPR"
     }
   },
@@ -20381,7 +20381,7 @@
     "name":"Caernarfon Airport",
     "city":"Caernarfon",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGCK"
     }
   },
@@ -20395,7 +20395,7 @@
     "name":"Grefrath-Niershorst Airport",
     "city":"Grefrath",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDLF"
     }
   },
@@ -20423,7 +20423,7 @@
     "name":"Newcastle Aerodrome",
     "city":"Newcastle",
     "country":"Ireland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EINC"
     }
   },
@@ -20437,7 +20437,7 @@
     "name":"Segeletz Airport",
     "city":"Segeletz",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAI"
     }
   },
@@ -20451,7 +20451,7 @@
     "name":"Fuentemilanos Airport",
     "city":"Segovia",
     "country":"Spain",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LEFM"
     }
   },
@@ -20507,7 +20507,7 @@
     "name":"Góraszka Airport",
     "city":"Goraszka",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPGO"
     }
   },
@@ -20532,7 +20532,7 @@
        "coordinates":  [ 47.7125,40.826667,935 ]
     },
     "properties": {
-    "name":"Gabala International Airport",
+    "name":"Qabala International Airport",
     "city":"Qabala",
     "country":"Azerbaijan",
     "IATA":"GBB",
@@ -20605,7 +20605,7 @@
     "name":"Fairoaks Airport",
     "city":"Fairoaks",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGTF"
     }
   },
@@ -20619,7 +20619,7 @@
     "name":"Neustadt-Glewe Airport",
     "city":"Neustadt-Glewe",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDAN"
     }
   },
@@ -20633,7 +20633,7 @@
     "name":"Goetsenhoven Air Base",
     "city":"GOETSENHOVEN",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBTN"
     }
   },
@@ -20647,7 +20647,7 @@
     "name":"Tutow Airport",
     "city":"Wildenrath",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDUW"
     }
   },
@@ -20661,7 +20661,7 @@
     "name":"Bremgarten Airport",
     "city":"Bremgarten",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDTG"
     }
   },
@@ -20688,8 +20688,8 @@
     "properties": {
     "name":"Letiště Vysoké Mýto",
     "city":"Vysoke Myto",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKVM"
     }
   },
@@ -20703,7 +20703,7 @@
     "name":"Spa (la Sauvenière) Airfield",
     "city":"Spa",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBSP"
     }
   },
@@ -20717,7 +20717,7 @@
     "name":"Namur-Suarlée Airfield",
     "city":"Namur",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBNM"
     }
   },
@@ -20731,7 +20731,7 @@
     "name":"Kiewit Airfield Hasselt",
     "city":"Hasselt",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBZH"
     }
   },
@@ -20773,7 +20773,7 @@
     "name":"Sortavala Airport",
     "city":"Sortavala",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULPW"
     }
   },
@@ -20801,7 +20801,7 @@
     "name":"Paluknys Airport",
     "city":"Paluknys",
     "country":"Lithuania",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EYVP"
     }
   },
@@ -20815,7 +20815,7 @@
     "name":"Beccles Airport",
     "city":"Beccles",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGSM"
     }
   },
@@ -20829,7 +20829,7 @@
     "name":"RAF Brawdy",
     "city":"Brawdy",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGDA"
     }
   },
@@ -20857,7 +20857,7 @@
     "name":"Enstone Aerodrome",
     "city":"Enstone",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGTN"
     }
   },
@@ -20871,7 +20871,7 @@
     "name":"Reichenbach Air Base",
     "city":"Reichenbach im Kandertal",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSGR"
     }
   },
@@ -20883,7 +20883,7 @@
     },
     "properties": {
     "name":"Iğdır Airport",
-    "city":"Igdir",
+    "city":"Iğdır",
     "country":"Türkiye",
     "IATA":"IGD",
     "ICAO":"LTCT"
@@ -20897,7 +20897,7 @@
     },
     "properties": {
     "name":"Şanlıurfa GAP Airport",
-    "city":"Sanliurfa",
+    "city":"Şanlıurfa",
     "country":"Türkiye",
     "IATA":"GNY",
     "ICAO":"LTCS"
@@ -20941,7 +20941,7 @@
     "name":"Endelave Flyveplads",
     "city":"Endelage",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKEL"
     }
   },
@@ -20955,7 +20955,7 @@
     "name":"St. Johann In Tirol Airport",
     "city":"St. Johann in Tirol",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOIJ"
     }
   },
@@ -20969,7 +20969,7 @@
     "name":"Thalmässing-Waizenhofen Airport",
     "city":"Thalmaessing",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDPW"
     }
   },
@@ -20983,7 +20983,7 @@
     "name":"Ansbach-Petersdorf Airport",
     "city":"Ansbach",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDQF"
     }
   },
@@ -20996,8 +20996,8 @@
     "properties": {
     "name":"Klatovy Airport",
     "city":"Klatovy",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKKT"
     }
   },
@@ -21011,7 +21011,7 @@
     "name":"Herning Airport",
     "city":"Herning",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKHG"
     }
   },
@@ -21025,7 +21025,7 @@
     "name":"Oberschleißheim Airfield",
     "city":"Schleissheim",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDNX"
     }
   },
@@ -21039,7 +21039,7 @@
     "name":"Verden-Scharnhorst Airfield",
     "city":"Verden",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDWV"
     }
   },
@@ -21053,7 +21053,7 @@
     "name":"Nittenau-Bruck Airport",
     "city":"Nittenau",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDNM"
     }
   },
@@ -21080,8 +21080,8 @@
     "properties": {
     "name":"Bubovice Airport",
     "city":"Bubovice",
-    "country":"Czech Republic",
-    "IATA":"\\N",
+    "country":"Czechia",
+    "IATA":"N/A",
     "ICAO":"LKBU"
     }
   },
@@ -21095,7 +21095,7 @@
     "name":"Rakkestad Astorp Airport",
     "city":"Rakkestad",
     "country":"Norway",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ENRK"
     }
   },
@@ -21137,7 +21137,7 @@
     "name":"Elstree Airfield",
     "city":"Elstree",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGTR"
     }
   },
@@ -21151,7 +21151,7 @@
     "name":"Sandtoft Airfield",
     "city":"Sandtoft",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGCF"
     }
   },
@@ -21165,7 +21165,7 @@
     "name":"Vängsö Airport",
     "city":"Vangso",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESSZ"
     }
   },
@@ -21193,7 +21193,7 @@
     "name":"Pellworm Field",
     "city":"Pellworm",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDHP"
     }
   },
@@ -21219,7 +21219,7 @@
     },
     "properties": {
     "name":"Norðfjörður Airport",
-    "city":"Nordfjordur",
+    "city":"Norðfjörður",
     "country":"Iceland",
     "IATA":"NOR",
     "ICAO":"BINF"
@@ -21249,7 +21249,7 @@
     "name":"La Ferté Alais Airfield",
     "city":"La Ferte Alais",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFFQ"
     }
   },
@@ -21263,7 +21263,7 @@
     "name":"Tuzla Romania Airport",
     "city":"Tuzla",
     "country":"Romania",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LRTZ"
     }
   },
@@ -21277,7 +21277,7 @@
     "name":"Popham Airfield",
     "city":"Popham",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGHP"
     }
   },
@@ -21305,7 +21305,7 @@
     "name":"City Airport Manchester",
     "city":"Manchester",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGCB"
     }
   },
@@ -21319,7 +21319,7 @@
     "name":"Sleap Airport",
     "city":"Shrewsbury",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGCV"
     }
   },
@@ -21333,7 +21333,7 @@
     "name":"Tatenhill Airfield",
     "city":"Burton-on-Trent",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGBM"
     }
   },
@@ -21347,7 +21347,7 @@
     "name":"Full Sutton Airfield",
     "city":"York",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGNU"
     }
   },
@@ -21361,7 +21361,7 @@
     "name":"Sherburn-In-Elmet Airfield",
     "city":"Leeds",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGCJ"
     }
   },
@@ -21403,7 +21403,7 @@
     "name":"Lille/Marcq-en-Baroeul Airport",
     "city":"Marcq En Baroeul",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFQO"
     }
   },
@@ -21417,7 +21417,7 @@
     "name":"Semyazino Airport",
     "city":"Vladimir",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UUBL"
     }
   },
@@ -21429,7 +21429,7 @@
     },
     "properties": {
     "name":"Yeysk Airport",
-    "city":"Eysk",
+    "city":"Yeysk",
     "country":"Russia",
     "IATA":"EIK",
     "ICAO":"URKE"
@@ -21459,7 +21459,7 @@
     "name":"Shobdon Aerodrome",
     "city":"Shobdon",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGBS"
     }
   },
@@ -21473,7 +21473,7 @@
     "name":"Thun Airport",
     "city":"Thun",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSZW"
     }
   },
@@ -21487,7 +21487,7 @@
     "name":"Kymi Airport",
     "city":"Kotka",
     "country":"Finland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EFKY"
     }
   },
@@ -21501,7 +21501,7 @@
     "name":"Ota Air Base",
     "city":"Ota",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPOT"
     }
   },
@@ -21515,7 +21515,7 @@
     "name":"Elsenthal Grafe Airport",
     "city":"Elsenthal",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDNF"
     }
   },
@@ -21529,7 +21529,7 @@
     "name":"Newtownards Airport",
     "city":"Newtownards",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGAD"
     }
   },
@@ -21543,7 +21543,7 @@
     "name":"Lashenden (Headcorn) Airfield",
     "city":"Headcorn",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGKH"
     }
   },
@@ -21557,7 +21557,7 @@
     "name":"Panshanger Aerodrome",
     "city":"Panshanger",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGLG"
     }
   },
@@ -21571,7 +21571,7 @@
     "name":"Thurrock Airfield",
     "city":"Thurrock",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGMT"
     }
   },
@@ -21585,7 +21585,7 @@
     "name":"Stapleford Aerodrome",
     "city":"Stapleford",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGSG"
     }
   },
@@ -21613,7 +21613,7 @@
     "name":"Meschede-Schüren Airport",
     "city":"Meschede",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDKM"
     }
   },
@@ -21627,7 +21627,7 @@
     "name":"Mestia Queen Tamar Airport",
     "city":"Mestia",
     "country":"Georgia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UGMS"
     }
   },
@@ -21655,7 +21655,7 @@
     "name":"Stade Airport",
     "city":"Stade",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDHS"
     }
   },
@@ -21669,7 +21669,7 @@
     "name":"Luzern-Beromunster Airport",
     "city":"Lucerne",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSZO"
     }
   },
@@ -21683,7 +21683,7 @@
     "name":"La Grand'combe Airport",
     "city":"La Grand'Combe",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFTN"
     }
   },
@@ -21711,7 +21711,7 @@
     "name":"Nordborg Flyveplads",
     "city":"Nordborg",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKNB"
     }
   },
@@ -21725,7 +21725,7 @@
     "name":"Gießen-Lützellinden Airport",
     "city":"Giessen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDFL"
     }
   },
@@ -21739,7 +21739,7 @@
     "name":"Tököl Airport",
     "city":"Budapest",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LHTL"
     }
   },
@@ -21753,7 +21753,7 @@
     "name":"Lure Malbouhans Air Base",
     "city":"Malbouhans",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFYL"
     }
   },
@@ -21795,7 +21795,7 @@
     "name":"Jelenia Góra Glider Airport",
     "city":"Jelenia Gora",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPJG"
     }
   },
@@ -21809,7 +21809,7 @@
     "name":"Vuktyl Airport",
     "city":"Vuktyl",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UUYK"
     }
   },
@@ -21823,7 +21823,7 @@
     "name":"Berezniki Airport",
     "city":"Berezniki",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"USPT"
     }
   },
@@ -21837,7 +21837,7 @@
     "name":"Leopoldsburg Airfield",
     "city":"Leopoldsburg",
     "country":"Belgium",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EBLE"
     }
   },
@@ -21851,7 +21851,7 @@
     "name":"Rumbula Air Base",
     "city":"Riga",
     "country":"Latvia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EVRC"
     }
   },
@@ -21865,7 +21865,7 @@
     "name":"Gelnhausen Airport",
     "city":"Gelnhausen",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDFG"
     }
   },
@@ -21877,9 +21877,9 @@
     },
     "properties": {
     "name":"Ærø Airport",
-    "city":"Aero",
+    "city":"Ærø",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKAE"
     }
   },
@@ -21893,7 +21893,7 @@
     "name":"Lauterbach Airport",
     "city":"Lauterbach-Wernges",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDFT"
     }
   },
@@ -21907,7 +21907,7 @@
     "name":"Aschaffenburg Airport",
     "city":"Aschaffenburg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDFC"
     }
   },
@@ -21921,7 +21921,7 @@
     "name":"Reichelsheim Airport",
     "city":"Reichelsheim",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDFB"
     }
   },
@@ -21935,7 +21935,7 @@
     "name":"Marburg-Schönstadt Airport",
     "city":"Schoenstadt",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDFN"
     }
   },
@@ -21949,7 +21949,7 @@
     "name":"Lauenbrück Airport",
     "city":"Lauenbrueck",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDHU"
     }
   },
@@ -21963,7 +21963,7 @@
     "name":"Hüttenbusch Airport",
     "city":"Huettenbusch",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDXU"
     }
   },
@@ -21977,7 +21977,7 @@
     "name":"Vrsar Crljenka Airport",
     "city":"Vsar",
     "country":"Croatia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LDPV"
     }
   },
@@ -22005,7 +22005,7 @@
     "name":"Airport Bamberg-Breitenau",
     "city":"Bamberg",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDQA"
     }
   },
@@ -22019,7 +22019,7 @@
     "name":"Zerbst Airport",
     "city":"Zerbst/Anhalt",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDUZ"
     }
   },
@@ -22033,7 +22033,7 @@
     "name":"RAF Spadeadam",
     "city":"Spadeadam",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGOM"
     }
   },
@@ -22075,7 +22075,7 @@
     "name":"Cewice Air Base",
     "city":"Lębork",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPCE"
     }
   },
@@ -22089,7 +22089,7 @@
     "name":"Deblin Military Air Base",
     "city":"Dęblin",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPDE"
     }
   },
@@ -22103,7 +22103,7 @@
     "name":"Leczyca Military Air Base",
     "city":"Leczyca",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPLY"
     }
   },
@@ -22115,9 +22115,9 @@
     },
     "properties": {
     "name":"Minsk Mazowiecki Military Air Base",
-    "city":"",
+    "city":"Minsk Mazowiecki",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPMM"
     }
   },
@@ -22129,9 +22129,9 @@
     },
     "properties": {
     "name":"Powidz Military Air Base",
-    "city":"",
+    "city":"Powidz",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPPW"
     }
   },
@@ -22145,7 +22145,7 @@
     "name":"Tomaszow Mazowiecki Military Air Base",
     "city":"Tomaszów Mazowiecki",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPTM"
     }
   },
@@ -22159,7 +22159,7 @@
     "name":"Björkvik Air Base",
     "city":"Björkvik",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESKX"
     }
   },
@@ -22173,7 +22173,7 @@
     "name":"Ljungbyhed Airport",
     "city":"Ljungbyhed",
     "country":"Sweden",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ESTL"
     }
   },
@@ -22201,7 +22201,7 @@
     "name":"Jēkabpils Air Base",
     "city":"Jēkabpils",
     "country":"Latvia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EVKA"
     }
   },
@@ -22215,7 +22215,7 @@
     "name":"Jūrmala Airport",
     "city":"Tukums",
     "country":"Latvia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EVTA"
     }
   },
@@ -22229,7 +22229,7 @@
     "name":"Kėdainiai Air Base",
     "city":"Kėdainiai",
     "country":"Lithuania",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EYKD"
     }
   },
@@ -22243,7 +22243,7 @@
     "name":"Gjadër Air Base",
     "city":"Gjadër",
     "country":"Albania",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LAGJ"
     }
   },
@@ -22257,7 +22257,7 @@
     "name":"Kukës Airport",
     "city":"Kukës",
     "country":"Albania",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LAKU"
     }
   },
@@ -22271,7 +22271,7 @@
     "name":"Kuçovë Air Base",
     "city":"Kuçovë",
     "country":"Albania",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LAKV"
     }
   },
@@ -22285,7 +22285,7 @@
     "name":"Vlorë Air Base",
     "city":"Vlorë",
     "country":"Albania",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LAVL"
     }
   },
@@ -22299,7 +22299,7 @@
     "name":"Haskovo Malevo Airport",
     "city":"Haskovo",
     "country":"Bulgaria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LBHS"
     }
   },
@@ -22313,7 +22313,7 @@
     "name":"Gabrovnitsa Air Base",
     "city":"Gabrovnitsa",
     "country":"Bulgaria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LBMG"
     }
   },
@@ -22327,7 +22327,7 @@
     "name":"Graf Ignatievo Air Base",
     "city":"Graf Ignatievo",
     "country":"Bulgaria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LBPG"
     }
   },
@@ -22341,7 +22341,7 @@
     "name":"Dolna Mitropoliya Air Base",
     "city":"Dolna Mitropoliya",
     "country":"Bulgaria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LBPL"
     }
   },
@@ -22355,7 +22355,7 @@
     "name":"Balchik Air Base",
     "city":"Balchik",
     "country":"Bulgaria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LBWB"
     }
   },
@@ -22411,7 +22411,7 @@
     "name":"Blois-Le Breuil Airport",
     "city":"Blois/Le Breuil",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFOQ"
     }
   },
@@ -22425,7 +22425,7 @@
     "name":"Trento-Mattarello Airport",
     "city":"Trento (TN)",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIDT"
     }
   },
@@ -22439,7 +22439,7 @@
     "name":"Alessandria Airport",
     "city":"Alessandria",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LILA"
     }
   },
@@ -22453,7 +22453,7 @@
     "name":"Biella-Cerrione Airport",
     "city":"Biella (BI)",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LILE"
     }
   },
@@ -22467,7 +22467,7 @@
     "name":"Vercelli Airport",
     "city":"Vercelli",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LILI"
     }
   },
@@ -22481,7 +22481,7 @@
     "name":"Casale Monferrato Airport",
     "city":"Casale Monferrato",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LILM"
     }
   },
@@ -22495,7 +22495,7 @@
     "name":"Varese-Venegono Airport",
     "city":"Varese",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LILN"
     }
   },
@@ -22509,7 +22509,7 @@
     "name":"Novi Ligure Airport",
     "city":"Novi Ligure",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIMR"
     }
   },
@@ -22537,7 +22537,7 @@
     "name":"Câmpia Turzii Air Base",
     "city":"Câmpia Turzii",
     "country":"Romania",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LRCT"
     }
   },
@@ -22551,7 +22551,7 @@
     "name":"Mărculeşti International Airport",
     "city":"Mărculeşti",
     "country":"Moldova",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LUBM"
     }
   },
@@ -22565,7 +22565,7 @@
     "name":"Cahul International Airport",
     "city":"Cahul",
     "country":"Moldova",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LUCH"
     }
   },
@@ -22579,7 +22579,7 @@
     "name":"Tiraspol Airport",
     "city":"Tiraspol",
     "country":"Moldova",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LUTR"
     }
   },
@@ -22607,7 +22607,7 @@
     "name":"Dzhermuk Airport",
     "city":"Dzhermuk",
     "country":"Armenia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UGEJ"
     }
   },
@@ -22621,7 +22621,7 @@
     "name":"Gvardeyskoe Air Base",
     "city":"Sarabuz",
     "country":"Ukraine",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UKFG"
     }
   },
@@ -22635,7 +22635,7 @@
     "name":"Saki Air Base",
     "city":"Saki",
     "country":"Ukraine",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UKFI"
     }
   },
@@ -22649,7 +22649,7 @@
     "name":"Dzhankoy Airport",
     "city":"Dzhankoy",
     "country":"Ukraine",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UKFY"
     }
   },
@@ -22663,7 +22663,7 @@
     "name":"Ozerne Air Base",
     "city":"Zhytomyr",
     "country":"Ukraine",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UKKO"
     }
   },
@@ -22677,7 +22677,7 @@
     "name":"Severomorsk-1 Naval Air Base",
     "city":"Severomorsk",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULAK"
     }
   },
@@ -22691,7 +22691,7 @@
     "name":"Pushkin Airport",
     "city":"St. Petersburg",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULLP"
     }
   },
@@ -22705,7 +22705,7 @@
     "name":"Siversky Air Base",
     "city":"Siversky",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULLS"
     }
   },
@@ -22719,7 +22719,7 @@
     "name":"Staraya Russa Air Base",
     "city":"Staraya Russa",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULNR"
     }
   },
@@ -22733,7 +22733,7 @@
     "name":"Peski Airport",
     "city":"Petrozavodsk",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULPP"
     }
   },
@@ -22747,7 +22747,7 @@
     "name":"Baranavichi Air Base",
     "city":"Baranavichi",
     "country":"Belarus",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UMMA"
     }
   },
@@ -22761,7 +22761,7 @@
     "name":"Babruisk Air Base",
     "city":"Babruisk",
     "country":"Belarus",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UMNB"
     }
   },
@@ -22775,7 +22775,7 @@
     "name":"Nagurskoye",
     "city":"Murmansk",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UODN"
     }
   },
@@ -22789,7 +22789,7 @@
     "name":"Khanskaya Air Base",
     "city":"Maykop",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"URKH"
     }
   },
@@ -22801,7 +22801,7 @@
     },
     "properties": {
     "name":"Volgodonsk Airport",
-    "city":"",
+    "city":"Volgodonsk",
     "country":"Russia",
     "IATA":"VLK",
     "ICAO":"URRY"
@@ -22817,7 +22817,7 @@
     "name":"Myachkovo Airport",
     "city":"Moscow",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UUBM"
     }
   },
@@ -22831,7 +22831,7 @@
     "name":"Tretyakovo Airport",
     "city":"Lukhovitsy",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UUMT"
     }
   },
@@ -22845,7 +22845,7 @@
     "name":"Yermolino Airport",
     "city":"Balabanovo",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UUWE"
     }
   },
@@ -22873,7 +22873,7 @@
     "name":"Izhma Airport",
     "city":"Izhma",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UUYV"
     }
   },
@@ -22887,7 +22887,7 @@
     "name":"Borisoglebskoye Airport",
     "city":"Kazan",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UWKG"
     }
   },
@@ -22901,7 +22901,7 @@
     "name":"Maksimovka Airport",
     "city":"Ufa",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UWUM"
     }
   },
@@ -22915,7 +22915,7 @@
     "name":"Buguruslan Severny Airport",
     "city":"Buguruslan",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UWWB"
     }
   },
@@ -22929,7 +22929,7 @@
     "name":"Bezymyanka Airfield",
     "city":"Samara",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UWWG"
     }
   },
@@ -22943,7 +22943,7 @@
     "name":"Soltsy-2 Air Base",
     "city":"Soltsy",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"XLLL"
     }
   },
@@ -22957,7 +22957,7 @@
     "name":"Severomorsk-3 Naval Air Base",
     "city":"Severomorsk",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"XLMV"
     }
   },
@@ -22971,7 +22971,7 @@
     "name":"Fedotovo Naval Air Base",
     "city":"Kipelovo",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"XLWF"
     }
   },
@@ -22985,7 +22985,7 @@
     "name":"Lebyazhye Air Base",
     "city":"Kamyshin",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"XRWL"
     }
   },
@@ -23013,7 +23013,7 @@
     "name":"Rtishchevo Air Base",
     "city":"Rtishchevo",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"XWPR"
     }
   },
@@ -23027,7 +23027,7 @@
     "name":"Bressaucourt Airport",
     "city":"Bressaucourt-Porrentruy",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSZQ"
     }
   },
@@ -23041,7 +23041,7 @@
     "name":"Arnbruck Airport",
     "city":"Arnbruck",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDNB"
     }
   },
@@ -23055,7 +23055,7 @@
     "name":"Krefeld-Egelsberg Airport",
     "city":"Krefeld",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDLK"
     }
   },
@@ -23083,7 +23083,7 @@
     "name":"Liman Airfield",
     "city":"Odesa",
     "country":"Ukraine",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UKOE"
     }
   },
@@ -23097,7 +23097,7 @@
     "name":"Lognes Emerainville Airport",
     "city":"Lognes",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFPL"
     }
   },
@@ -23111,7 +23111,7 @@
     "name":"Sturgate Airfield",
     "city":"Eger",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGCS"
     }
   },
@@ -23125,7 +23125,7 @@
     "name":"Ihtiman Airfield",
     "city":"Ihtiman",
     "country":"Bulgaria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LBHT"
     }
   },
@@ -23139,7 +23139,7 @@
     "name":"Vogtareuth Airport",
     "city":"Vogtareuth",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDNV"
     }
   },
@@ -23153,7 +23153,7 @@
     "name":"Stockerau Airport",
     "city":"Stockerau",
     "country":"Austria",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LOAU"
     }
   },
@@ -23193,7 +23193,7 @@
     },
     "properties": {
     "name":"Grundarfjörður Airport",
-    "city":"Grundarfjordur",
+    "city":"Grundarfjörður",
     "country":"Iceland",
     "IATA":"GUU",
     "ICAO":"BIGF"
@@ -23209,7 +23209,7 @@
     "name":"RAF Mona",
     "city":"Mona",
     "country":"United Kingdom",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EGOQ"
     }
   },
@@ -23223,7 +23223,7 @@
     "name":"Rerik-Zweedorf Airport",
     "city":"Rerik",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDCR"
     }
   },
@@ -23237,7 +23237,7 @@
     "name":"Budaörs Airfield",
     "city":"Budaoers",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LHBS"
     }
   },
@@ -23251,7 +23251,7 @@
     "name":"Jakabszállás Airport",
     "city":"Jakabszallas",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LHJK"
     }
   },
@@ -23279,7 +23279,7 @@
     "name":"Northeim Airport",
     "city":"Northeim",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDVN"
     }
   },
@@ -23293,7 +23293,7 @@
     "name":"Reggio Emilia Airport",
     "city":"Reggio Emilia",
     "country":"Italy",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LIDE"
     }
   },
@@ -23307,7 +23307,7 @@
     "name":"Torgau-Beilrode Airport",
     "city":"Gransee",
     "country":"Germany",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EDOG"
     }
   },
@@ -23321,7 +23321,7 @@
     "name":"Anholt Airport",
     "city":"Anholt",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKAT"
     }
   },
@@ -23335,7 +23335,7 @@
     "name":"St Pierre d'Oléron Airfield",
     "city":"Saint Pierre d'Oleron",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFDP"
     }
   },
@@ -23349,7 +23349,7 @@
     "name":"Semur En Auxois Airfield",
     "city":"Semur en Auxois",
     "country":"France",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LFGQ"
     }
   },
@@ -23363,7 +23363,7 @@
     "name":"Pyramiden Heliport",
     "city":"Pyramiden",
     "country":"Norway",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ENPY"
     }
   },
@@ -23377,7 +23377,7 @@
     "name":"Lipki Air Base",
     "city":"Minsk",
     "country":"Belarus",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UMMI"
     }
   },
@@ -23391,7 +23391,7 @@
     "name":"Zermatt  Heliport",
     "city":"Zermatt",
     "country":"Switzerland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LSEZ"
     }
   },
@@ -23405,7 +23405,7 @@
     "name":"Aarhus Seaplne Terminal",
     "city":"Aarhus",
     "country":"Denmark",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EKAC"
     }
   },
@@ -23419,7 +23419,7 @@
     "name":"Suwałki Airport",
     "city":"Suwalki",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPSU"
     }
   },
@@ -23433,7 +23433,7 @@
     "name":"Jastarnia Airport",
     "city":"Jastarnia",
     "country":"Poland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"EPJA"
     }
   },
@@ -23461,7 +23461,7 @@
     "name":"Chepelevka Airport",
     "city":"Uzyn",
     "country":"Ukraine",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UKKH"
     }
   },
@@ -23489,7 +23489,7 @@
     "name":"Engeløy Airport",
     "city":"Engeløy",
     "country":"Norway",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ENEN"
     }
   },
@@ -23503,7 +23503,7 @@
     "name":"Aerodromo de Castelo Branco",
     "city":"Castelo Branco",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPCB"
     }
   },
@@ -23517,7 +23517,7 @@
     "name":"Ponte de Sor Airport",
     "city":"Ponte de Sôr",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPSO"
     }
   },
@@ -23531,7 +23531,7 @@
     "name":"Vilar de Luz Airfield",
     "city":"Maia",
     "country":"Portugal",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LPVL"
     }
   },
@@ -23543,9 +23543,9 @@
     },
     "properties": {
     "name":"Kirkjubæjarklaustur Airport",
-    "city":"Kirkjubaejarklaustur ",
+    "city":"Kirkjubæjarklaustur ",
     "country":"Iceland",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"BIKL"
     }
   },
@@ -23559,7 +23559,7 @@
     "name":"Pertominsk Airport",
     "city":"Pertominsk",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULAT"
     }
   },
@@ -23615,7 +23615,7 @@
     "name":"Osovtsy Air Base",
     "city":"Byaroza",
     "country":"Belarus",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UMMO"
     }
   },
@@ -23643,7 +23643,7 @@
     "name":"Kalocsa/Foktő Airport",
     "city":"Kalocsa/Foktő",
     "country":"Hungary",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"LHKA"
     }
   },
@@ -23657,7 +23657,7 @@
     "name":"Kostomuksha Airport",
     "city":"Kostomuksha",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULPM"
     }
   },
@@ -23671,7 +23671,7 @@
     "name":"Privolzhskiy Air Base",
     "city":"Astrakhan",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"XRAP"
     }
   },
@@ -23685,7 +23685,7 @@
     "name":"Kubinka Air Base",
     "city":"Kubinka",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UUMB"
     }
   },
@@ -23699,7 +23699,7 @@
     "name":"Rogachyovo Air Base",
     "city":"Belaya",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULDA"
     }
   },
@@ -23713,7 +23713,7 @@
     "name":"Krechevitsy Air Base",
     "city":"Novgorod",
     "country":"Russia",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"ULLK"
     }
   },
@@ -23727,7 +23727,7 @@
     "name":"Melitopol Air Base",
     "city":"Melitopol",
     "country":"Ukraine",
-    "IATA":"\\N",
+    "IATA":"N/A",
     "ICAO":"UKDM"
     }
   }
